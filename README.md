@@ -39,9 +39,12 @@ JetFlix is a comprehensive media streaming and downloading application built wit
    pip install -r requirements.txt
    ```
 
-3. **Ensure portable tools are in place**
-   - qBittorrent Portable should be in `qBittorrentPortable/` directory
-   - FFmpeg binaries should be in `ffmpeg-8.0.1-essentials_build/bin/` directory
+3. **Set up portable tools**
+   - **qBittorrent Portable**: Should be in `qBittorrentPortable/` directory
+   - **FFmpeg Setup**:
+     1. Download FFmpeg essentials build from https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
+     2. Extract the ZIP file to `ffmpeg-8.0.1-essentials_build/` directory
+     3. Ensure `ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe` are in `ffmpeg-8.0.1-essentials_build/bin/`
 
 ### Option 2: Standalone Executable
 
