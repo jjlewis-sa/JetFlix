@@ -5,78 +5,58 @@
         "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he\u2019s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "The Rookie S08E03 720p HDTV x264-SYNCOPY",
-                "magnet": "magnet:?xt=urn:btih:163A7D405A966907A322A465A1ACD6D6B98E49BC",
-                "size": "783075653",
-                "seeders": "2273",
-                "leechers": "657"
-            },
-            {
-                "title": "The Rookie S08E03 1080p WEB h264-ETHEL",
-                "magnet": "magnet:?xt=urn:btih:86521D7BD628E2440FA0EFEC5C149C72D26B58F9",
-                "size": "1420606897",
-                "seeders": "1988",
-                "leechers": "1752"
-            },
-            {
-                "title": "The Rookie S08E02 Fast Andy 1080p AMZN WEB-DL DDP5 1 H 264-Kitsune",
-                "magnet": "magnet:?xt=urn:btih:22FD0B46D1AECD65A6D9E1C3152B45F6DE55B0CE",
-                "size": "3294418894",
-                "seeders": "1605",
-                "leechers": "963"
-            },
-            {
-                "title": "The Rookie S08E01 Czech Mate 1080p AMZN WEB-DL DDP5 1 H 264-FLUX",
-                "magnet": "magnet:?xt=urn:btih:85F80580294D536EA93527FBAC1846E0099C45BA",
-                "size": "3104860810",
-                "seeders": "1299",
-                "leechers": "631"
-            },
-            {
-                "title": "The Rookie S08E01 720p HDTV x264-SYNCOPY",
-                "magnet": "magnet:?xt=urn:btih:2EA9BAE02048299E4009CA3E20A4142991828D44",
-                "size": "1000833787",
-                "seeders": "865",
-                "leechers": "248"
-            },
-            {
-                "title": "The Rookie S08E03 720p HEVC x265-MeGusta",
-                "magnet": "magnet:?xt=urn:btih:1684434286F02BB1D693D846BC152DC9E3CBE959",
-                "size": "240967745",
-                "seeders": "664",
-                "leechers": "218"
-            },
-            {
-                "title": "The Rookie S08E01 Czech Mate 1080p HEVC x265-MeGusta",
-                "magnet": "magnet:?xt=urn:btih:02B3ECEB61E7650FFE4748C11F9E022C9777BF99",
-                "size": "594431017",
-                "seeders": "578",
-                "leechers": "216"
-            },
-            {
-                "title": "The Rookie S08E02 1080p x265-ELiTE",
-                "magnet": "magnet:?xt=urn:btih:BF8F304C1A8CAD1DD1DFD57EC3F75E315648D495",
-                "size": "1039963006",
-                "seeders": "511",
-                "leechers": "672"
-            },
-            {
-                "title": "The Rookie S08E02 720p x264-FENiX",
-                "magnet": "magnet:?xt=urn:btih:88313F7B813260339E3ED86610A3AD3A4246E3D8",
-                "size": "699698815",
-                "seeders": "503",
-                "leechers": "237"
-            },
-            {
-                "title": "The Rookie S08E03 1080p x265-ELiTE",
-                "magnet": "magnet:?xt=urn:btih:4E3FACE1F42DB9F67CB5DA272B14349CA5BC584C",
-                "size": "700335419",
-                "seeders": "461",
-                "leechers": "977"
-            }
-        ]
+        "torrents": {
+            "Season 1": [
+                {
+                    "title": "The.Rookie.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV",
+                    "magnet": "magnet:?xt=urn:btih:C5F825B4309CB9244EC8BB4983BE28A40F5C7B61",
+                    "size": "6889948820",
+                    "seeders": "287",
+                    "leechers": "171",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 2": [
+                {
+                    "title": "The.Rookie.S02.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV",
+                    "magnet": "magnet:?xt=urn:btih:12ECEA15E59207662FF79034960F435597D34BEE",
+                    "size": "6998402793",
+                    "seeders": "237",
+                    "leechers": "135",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 3": [
+                {
+                    "title": "The.Rookie.S03.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV",
+                    "magnet": "magnet:?xt=urn:btih:027EB74198FB8664293C651137A0C2D02843AC13",
+                    "size": "4767509998",
+                    "seeders": "201",
+                    "leechers": "86",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 4": [
+                {
+                    "title": "The.Rookie.S04.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV",
+                    "magnet": "magnet:?xt=urn:btih:6B3876C36A5FAEADDB4700EA3E47CBF995395D5F",
+                    "size": "7261262718",
+                    "seeders": "124",
+                    "leechers": "47",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 5": [
+                {
+                    "title": "The.Rookie.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV",
+                    "magnet": "magnet:?xt=urn:btih:010D34C55EB96A6C92E4C605DE9E911D8EA87F08",
+                    "size": "7723377879",
+                    "seeders": "72",
+                    "leechers": "87",
+                    "type": "season_pack"
+                }
+            ]
+        }
     },
     {
         "title": "The Simpsons",
@@ -84,78 +64,58 @@
         "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "The Simpsons S37E13 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:D85F726DA39B5DA543612690E2E5906B0A981678",
-                "size": "664149352",
-                "seeders": "871",
-                "leechers": "81"
-            },
-            {
-                "title": "The Simpsons S37E11 Guess Whos Coming to Skinner 1080p DSNP WEB-DL DDP5 1 H 264-STC",
-                "magnet": "magnet:?xt=urn:btih:DDBD4AFD5FB01263434D48B563DE0EF0600DAAE5",
-                "size": "674168418",
-                "seeders": "570",
-                "leechers": "33"
-            },
-            {
-                "title": "The Simpsons S37E12 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:C0E2501AB8CB7E99BEFECF63FAFBE099F84118EB",
-                "size": "720518723",
-                "seeders": "499",
-                "leechers": "33"
-            },
-            {
-                "title": "The Simpsons S37E10 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:D6A0BB041C60E32D162F3770C3725E0E58A0E635",
-                "size": "674167563",
-                "seeders": "484",
-                "leechers": "33"
-            },
-            {
-                "title": "The Simpsons S37E09 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:FA759EA07108662D7F580C1FBB4BD2D81618672C",
-                "size": "633782974",
-                "seeders": "442",
-                "leechers": "24"
-            },
-            {
-                "title": "The Simpsons S37E01 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:B81AEF573D7AE161E72DD5E46C18B774CA861EE1",
-                "size": "666483030",
-                "seeders": "408",
-                "leechers": "54"
-            },
-            {
-                "title": "The Simpsons S37E08 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:A51B09A125D555F0B2755F7F6C582C97A347B25B",
-                "size": "721095445",
-                "seeders": "290",
-                "leechers": "18"
-            },
-            {
-                "title": "The Simpsons S37E02 The Yellow Lotus 1080p DSNP WEB-DL DD 5 1 H 264-playWEB",
-                "magnet": "magnet:?xt=urn:btih:44D20E93172E4178AA9DEA0539268C0E6A913B08",
-                "size": "730604154",
-                "seeders": "258",
-                "leechers": "19"
-            },
-            {
-                "title": "The Simpsons S37E05 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:2D2614C4427C5A464F2878610601CFE18B7F81C8",
-                "size": "712550796",
-                "seeders": "247",
-                "leechers": "26"
-            },
-            {
-                "title": "The Simpsons S37E03 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:14DA1FDCE84698E7831FA3075BA46BC4C87C6103",
-                "size": "1003214149",
-                "seeders": "238",
-                "leechers": "28"
-            }
-        ]
+        "torrents": {
+            "Season 1": [
+                {
+                    "title": "The Simpsons - Season 1 S01 - 1080p DSNP WEBRip x264-Rapta",
+                    "magnet": "magnet:?xt=urn:btih:3F8A62DB1CBB453F277AC789820C848F496D6A69",
+                    "size": "6118779313",
+                    "seeders": "61",
+                    "leechers": "17",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 2": [
+                {
+                    "title": "The Simpsons Season 1 2 3 4 5 6 7 8 9 + Shorts - threesixtyp",
+                    "magnet": "magnet:?xt=urn:btih:145AF2CA5EB7D508A2A3801A0A822ACEFCEE1897",
+                    "size": "8190438531",
+                    "seeders": "157",
+                    "leechers": "165",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 3": [
+                {
+                    "title": "The Simpsons Season 1 2 3 4 5 6 7 8 9 + Shorts - threesixtyp",
+                    "magnet": "magnet:?xt=urn:btih:145AF2CA5EB7D508A2A3801A0A822ACEFCEE1897",
+                    "size": "8190438531",
+                    "seeders": "157",
+                    "leechers": "165",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 4": [
+                {
+                    "title": "The Simpsons Season 1 2 3 4 5 6 7 8 9 + Shorts - threesixtyp",
+                    "magnet": "magnet:?xt=urn:btih:145AF2CA5EB7D508A2A3801A0A822ACEFCEE1897",
+                    "size": "8190438531",
+                    "seeders": "157",
+                    "leechers": "165",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 5": [
+                {
+                    "title": "The Simpsons Season 1 2 3 4 5 6 7 8 9 + Shorts - threesixtyp",
+                    "magnet": "magnet:?xt=urn:btih:145AF2CA5EB7D508A2A3801A0A822ACEFCEE1897",
+                    "size": "8190438531",
+                    "seeders": "157",
+                    "leechers": "165",
+                    "type": "season_pack"
+                }
+            ]
+        }
     },
     {
         "title": "House",
@@ -163,78 +123,58 @@
         "description": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton\u2013Plainsboro Teaching Hospital in New Jersey.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "A House of Dynamite (2025) [1080p] [WEBRip] [5.1] ",
-                "magnet": "magnet:?xt=urn:btih:14AA41D861408EDFD0706E1ADEAC7DDDCA0E6E15",
-                "size": "2283765946",
-                "seeders": "637",
-                "leechers": "48"
-            },
-            {
-                "title": "Spartacus House of Ashur S01E07 1080p HEVC x265-MeGusta",
-                "magnet": "magnet:?xt=urn:btih:45DF42358B3A764E393E5DCE02AB05683704A0C1",
-                "size": "651150376",
-                "seeders": "542",
-                "leechers": "132"
-            },
-            {
-                "title": "Spartacus.House.of.Ashur.S01E03.1080p.x265-ELiTE",
-                "magnet": "magnet:?xt=urn:btih:0AE101135B56FBA059FD5FA54C78F8B4CA0BB153",
-                "size": "1027953191",
-                "seeders": "515",
-                "leechers": "174"
-            },
-            {
-                "title": "A House of Dynamite 2025 1080p WEB HEVC x265-RMTeam",
-                "magnet": "magnet:?xt=urn:btih:EF4C3120E62E9C1FA516B4CA1D55AE2C4D934011",
-                "size": "1633777105",
-                "seeders": "496",
-                "leechers": "66"
-            },
-            {
-                "title": "Spartacus House of Ashur S01E06 1080p HEVC x265-MeGusta",
-                "magnet": "magnet:?xt=urn:btih:D84B5042CEB8B6B59E10426009ED96C726523D4E",
-                "size": "646216350",
-                "seeders": "450",
-                "leechers": "71"
-            },
-            {
-                "title": "Spartacus House of Ashur S01E05 1080p WEB h264-ETHEL",
-                "magnet": "magnet:?xt=urn:btih:A089C5A809CF7EBDC76D45D9A076345F4AF407D8",
-                "size": "4319131305",
-                "seeders": "378",
-                "leechers": "87"
-            },
-            {
-                "title": "Spartacus House of Ashur S01E07 1080p WEB h264-ETHEL",
-                "magnet": "magnet:?xt=urn:btih:A2593FDEAD144C25ADC91FE863E8FB5EDFCC25BA",
-                "size": "4352421536",
-                "seeders": "377",
-                "leechers": "113"
-            },
-            {
-                "title": "Spartacus House of Ashur S01E01 DOMINUS 1080p AMZN WEB-DL DDP5 1 H 264-FLUX",
-                "magnet": "magnet:?xt=urn:btih:5AA77BCF5F6690F38A7C98E518EE3A1FF0FD2200",
-                "size": "4382357810",
-                "seeders": "340",
-                "leechers": "85"
-            },
-            {
-                "title": "Road House (2024) [1080p] [WEBRip] [5.1]",
-                "magnet": "magnet:?xt=urn:btih:34B59218089E706300BF184F688D8D6167EDC31D",
-                "size": "2442651490",
-                "seeders": "324",
-                "leechers": "37"
-            },
-            {
-                "title": "Spartacus.House.of.Ashur.S01E02.1080p.x265-ELiTE",
-                "magnet": "magnet:?xt=urn:btih:F8CDFDEDD714763B220AF793ED05AE94ED0330E0",
-                "size": "961468430",
-                "seeders": "318",
-                "leechers": "106"
-            }
-        ]
+        "torrents": {
+            "Season 1": [
+                {
+                    "title": "House (2004) Season 1-8 S01-S08 (1080p BluRay x265 HEVC 10bit AA",
+                    "magnet": "magnet:?xt=urn:btih:3D6754D6CF5B1B2122F845362038D53B94CC3CC7",
+                    "size": "275641731445",
+                    "seeders": "153",
+                    "leechers": "274",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 2": [
+                {
+                    "title": "House, M.D. Season 2 S02 (1080p Bluray x265 AAC 5.1 Joy)[UTR]",
+                    "magnet": "magnet:?xt=urn:btih:F1C9A66F7F7935460284BDA42D1E8273F433C38F",
+                    "size": "9224433980",
+                    "seeders": "142",
+                    "leechers": "21",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 3": [
+                {
+                    "title": "House, M.D. Season 3 S03 (1080p Bluray x265 AAC 5.1 Joy)[UTR]",
+                    "magnet": "magnet:?xt=urn:btih:00B9199BF323B1870F0EB0835A739C4820349D2C",
+                    "size": "8723674417",
+                    "seeders": "108",
+                    "leechers": "21",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 4": [
+                {
+                    "title": "House, M.D. Season 4 S04 (1080p Bluray x265 AAC 5.1 Joy)[UTR]",
+                    "magnet": "magnet:?xt=urn:btih:6E512F201BBEA6C19992886F2C8B75C5CB16FC88",
+                    "size": "5895644385",
+                    "seeders": "125",
+                    "leechers": "16",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 5": [
+                {
+                    "title": "House, M.D. Season 5 S05 (1080p Bluray x265 AAC 5.1 Joy)[UTR]",
+                    "magnet": "magnet:?xt=urn:btih:2BD26065279EA97232ED73448D07F55FA4830327",
+                    "size": "8820486386",
+                    "seeders": "122",
+                    "leechers": "17",
+                    "type": "season_pack"
+                }
+            ]
+        }
     },
     {
         "title": "Family Guy",
@@ -242,78 +182,58 @@
         "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Family Guy S23E18 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:49DEA118D4F4EE159D34008CBBBDFC5AE8CE9A17",
-                "size": "554893115",
-                "seeders": "294",
-                "leechers": "41"
-            },
-            {
-                "title": "Family Guy S23E11 1080p WEB H264-SuccessfulCrab",
-                "magnet": "magnet:?xt=urn:btih:983F43C43EF16E22BF129433CFD79C945F6909B4",
-                "size": "543826244",
-                "seeders": "244",
-                "leechers": "14"
-            },
-            {
-                "title": "Family Guy S23E12 1080p WEB H264-SuccessfulCrab",
-                "magnet": "magnet:?xt=urn:btih:11A2F18519600B2AE23525D968949D45D16C2F10",
-                "size": "518452019",
-                "seeders": "226",
-                "leechers": "18"
-            },
-            {
-                "title": "Family Guy S23E14 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:13DB4E762A9ED81D35BEF5D5A7319C4D336DF382",
-                "size": "535353070",
-                "seeders": "220",
-                "leechers": "29"
-            },
-            {
-                "title": "Family Guy S23E16 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:04B4000D88481E39B1FA486D064262BA9B7CBE8A",
-                "size": "539919769",
-                "seeders": "212",
-                "leechers": "41"
-            },
-            {
-                "title": "Family Guy S23E17 The Fat Lotus 1080p DSNP WEB-DL DDP5 1 H 264-NTb",
-                "magnet": "magnet:?xt=urn:btih:9AA00A68F0F7C58914A1406FEFCDDAA86D20257D",
-                "size": "655401502",
-                "seeders": "207",
-                "leechers": "17"
-            },
-            {
-                "title": "Family Guy S23E06 1080p WEB H264-SuccessfulCrab",
-                "magnet": "magnet:?xt=urn:btih:138C64EB662CDC00BE3DE1B910E5AEE8B862D430",
-                "size": "520589768",
-                "seeders": "180",
-                "leechers": "15"
-            },
-            {
-                "title": "Family Guy S04E30 Stu Stewies Excellent Adventure DSNP WEB-DL AAC2 0 H 264-",
-                "magnet": "magnet:?xt=urn:btih:433521B9424C662BAF0BE054634630CA2F8BB436",
-                "size": "307912110",
-                "seeders": "167",
-                "leechers": "3"
-            },
-            {
-                "title": "Family Guy S19E18 Meg Goes To College 1080p DSNP WEB-DL DD 5 1 H 264-playWE",
-                "magnet": "magnet:?xt=urn:btih:25DE4AA2AEB39A25B7FF755ABD856EADCD33C031",
-                "size": "612787092",
-                "seeders": "165",
-                "leechers": "7"
-            },
-            {
-                "title": "Family Guy S18E16 Start Me Up 1080p DSNP WEB-DL DD 5 1 H 264-playWEB",
-                "magnet": "magnet:?xt=urn:btih:08D746D919A6B225C2E64637193E32303BC4988D",
-                "size": "514856081",
-                "seeders": "163",
-                "leechers": "8"
-            }
-        ]
+        "torrents": {
+            "Season 1": [
+                {
+                    "title": "Family Guy - Seasons 01 to 20 (S01-S20) The Chiefly Uncensored Master Collection",
+                    "magnet": "magnet:?xt=urn:btih:705FEBDAFD11DABB84B724135655D14A8455668F",
+                    "size": "95431722194",
+                    "seeders": "178",
+                    "leechers": "113",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 2": [
+                {
+                    "title": "Family Guy Season 2 S02 [480p DVD x265][AAC 2.0][Sub][Ch]",
+                    "magnet": "magnet:?xt=urn:btih:AE293E8E607255D9E3EE11D6A472DEAB99AB7B53",
+                    "size": "2069654350",
+                    "seeders": "23",
+                    "leechers": "9",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 3": [
+                {
+                    "title": "Family Guy Season 3 S03 [480p DVD x265][AAC 2.0][Sub][Ch]",
+                    "magnet": "magnet:?xt=urn:btih:474D1434326CE6BFA363D551273878CCFA3EACB7",
+                    "size": "2040040301",
+                    "seeders": "37",
+                    "leechers": "5",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 4": [
+                {
+                    "title": "Family Guy Season 4 S04 [480p DVD x265][AAC 5.1][Sub][Ch]",
+                    "magnet": "magnet:?xt=urn:btih:538EB0FA99DEF8E0957E058E53F7F6BCB3D1B1A1",
+                    "size": "3403295860",
+                    "seeders": "29",
+                    "leechers": "13",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 5": [
+                {
+                    "title": "Family Guy Season 5 S05 [480p DVD x265][AAC 5.1][Sub][Ch]",
+                    "magnet": "magnet:?xt=urn:btih:F0813544FC86BAEE1E41A70FD926AFFC44B16669",
+                    "size": "2041877080",
+                    "seeders": "21",
+                    "leechers": "7",
+                    "type": "season_pack"
+                }
+            ]
+        }
     },
     {
         "title": "Shameless",
@@ -321,78 +241,58 @@
         "description": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Shameless (US) (2011) Season 1-11 S01-S11 (1080p Mixed x265 HEVC",
-                "magnet": "magnet:?xt=urn:btih:F3CC0BA32C3F02E5BA531D8E5790B5FDA0DD96DD",
-                "size": "289835596811",
-                "seeders": "155",
-                "leechers": "539"
-            },
-            {
-                "title": "Shameless US Season 1 2 3 4 5 6 7 8 9 10 11 - threesixtyp",
-                "magnet": "magnet:?xt=urn:btih:71593858B251A16F996BDBFB3764EB7501CD5C77",
-                "size": "29364281542",
-                "seeders": "65",
-                "leechers": "103"
-            },
-            {
-                "title": "Shameless.US.S05.1080p.BluRay.x264-ROVERS Season 5 Five Complete",
-                "magnet": "magnet:?xt=urn:btih:ED18FC1268A95759532595BEF607E5A783C41423",
-                "size": "52733807200",
-                "seeders": "59",
-                "leechers": "31"
-            },
-            {
-                "title": "Shameless Season 1 Complete 720p BluRay x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:B3A7D5FA09230D46B9FB3D00229C8617AE419C63",
-                "size": "7944927689",
-                "seeders": "58",
-                "leechers": "46"
-            },
-            {
-                "title": "Shameless.US.S11.COMPLETE.1080p.WEBRip.AC3.x264-LESS",
-                "magnet": "magnet:?xt=urn:btih:3EB639302D68F111E23A298E00FB73D3EE1E1762",
-                "size": "15839257490",
-                "seeders": "57",
-                "leechers": "12"
-            },
-            {
-                "title": "Shameless.US.S07.1080p.BluRay.x264-ROVERS [Season 7 Seven]",
-                "magnet": "magnet:?xt=urn:btih:B9959E93055C4CCBF0EE79A9FBC1082BB7D23A0E",
-                "size": "52146810043",
-                "seeders": "54",
-                "leechers": "28"
-            },
-            {
-                "title": "Shameless.US.S01.1080p.BluRay.X264-UNTOUCHABLES [Season 1 One]",
-                "magnet": "magnet:?xt=urn:btih:FE1215D926A2807D6C947E62DC6447751555498F",
-                "size": "56359347773",
-                "seeders": "50",
-                "leechers": "28"
-            },
-            {
-                "title": "Shameless U S S03E01 El Gran Canon 1080p Netflix WEB-DL DDP 5 1 H 264-HHWEB",
-                "magnet": "magnet:?xt=urn:btih:43CC52B7B9341FB9CAF822058F0DBEB74379A082",
-                "size": "3402637261",
-                "seeders": "50",
-                "leechers": "30"
-            },
-            {
-                "title": "Shameless UK S01-S11 720p WEB-DL HEVC x265 BONE",
-                "magnet": "magnet:?xt=urn:btih:16496AB12DE1D62523AE79293F5AE74D689F60FA",
-                "size": "40070317556",
-                "seeders": "47",
-                "leechers": "58"
-            },
-            {
-                "title": "Shameless U S S08E12 Sleepwalking 1080p Netflix WEB-DL DDP 5 1 H 264-HHWEB",
-                "magnet": "magnet:?xt=urn:btih:068F5A0F5866DE5F5A0E6A900C7E34E6A8A2F13E",
-                "size": "2010001305",
-                "seeders": "47",
-                "leechers": "31"
-            }
-        ]
+        "torrents": {
+            "Season 1": [
+                {
+                    "title": "Shameless (US) (2011) Season 1-11 S01-S11 (1080p Mixed x265 HEVC",
+                    "magnet": "magnet:?xt=urn:btih:F3CC0BA32C3F02E5BA531D8E5790B5FDA0DD96DD",
+                    "size": "289835596811",
+                    "seeders": "155",
+                    "leechers": "539",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 2": [
+                {
+                    "title": "Shameless.US.S02.Season.2.720p.BluRay.x264-DEMAND [PublicHD]",
+                    "magnet": "magnet:?xt=urn:btih:3E319F542F4EFE461BB606C5886420700DE217E1",
+                    "size": "28116364563",
+                    "seeders": "2",
+                    "leechers": "5",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 3": [
+                {
+                    "title": "Shameless.US.S03.1080p.BluRay.x264-ROVERS [Season 3 Three]",
+                    "magnet": "magnet:?xt=urn:btih:9D3EAAF8BC194E8D344304813B141ADB48C3DA45",
+                    "size": "51151552733",
+                    "seeders": "44",
+                    "leechers": "37",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 4": [
+                {
+                    "title": "Shameless.US.S04.1080p.BluRay.X264-GHOULS Season 4 Four Complete",
+                    "magnet": "magnet:?xt=urn:btih:0A9F0E94A0BDF0FA12984F6D52243C63DC814087",
+                    "size": "56344002211",
+                    "seeders": "42",
+                    "leechers": "27",
+                    "type": "season_pack"
+                }
+            ],
+            "Season 5": [
+                {
+                    "title": "Shameless.US.S05.1080p.BluRay.x264-ROVERS Season 5 Five Complete",
+                    "magnet": "magnet:?xt=urn:btih:ED18FC1268A95759532595BEF607E5A783C41423",
+                    "size": "52733807200",
+                    "seeders": "59",
+                    "leechers": "31",
+                    "type": "season_pack"
+                }
+            ]
+        }
     },
     {
         "title": "Friends",
@@ -400,78 +300,7 @@
         "description": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Smiling Friends S03E08 1080p AMZN WEB-DL DDP5 1 H 264 DUAL-BiOMA",
-                "magnet": "magnet:?xt=urn:btih:B8A2CA98990B7809C035EC36228230F24C77A24C",
-                "size": "408082147",
-                "seeders": "906",
-                "leechers": "50"
-            },
-            {
-                "title": "Smiling Friends S03E04 1080p AMZN WEB-DL DDP5 1 H 264 DUAL-BiOMA",
-                "magnet": "magnet:?xt=urn:btih:FD4272BE434C58D382E104FBBD7330D89514ECDC",
-                "size": "446828812",
-                "seeders": "797",
-                "leechers": "39"
-            },
-            {
-                "title": "Smiling Friends S03E02 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:D2F2AC052BF9E39DB05B1334787E07ADD0799134",
-                "size": "357047105",
-                "seeders": "715",
-                "leechers": "52"
-            },
-            {
-                "title": "Smiling Friends S03E03 1080p AMZN WEB-DL DDP5 1 H 264 DUAL-BiOMA",
-                "magnet": "magnet:?xt=urn:btih:BCA2D44DCD7655ECFDFFE81659A569D3525F0195",
-                "size": "370618206",
-                "seeders": "677",
-                "leechers": "22"
-            },
-            {
-                "title": "Smiling Friends S03E07 1080p AMZN WEB-DL DDP5 1 H 264 DUAL-BiOMA",
-                "magnet": "magnet:?xt=urn:btih:2B3CCC5AC97846D04861D9838BD0D52123FFDEC6",
-                "size": "419947764",
-                "seeders": "595",
-                "leechers": "61"
-            },
-            {
-                "title": "Smiling Friends S03E06 1080p AMZN WEB-DL DDP5 1 H 264 DUAL-BiOMA",
-                "magnet": "magnet:?xt=urn:btih:F09047AA9112F51F8FEE2DCDB98295B7152F6DE5",
-                "size": "511096589",
-                "seeders": "567",
-                "leechers": "28"
-            },
-            {
-                "title": "Smiling Friends S03E01 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:0DC573007A5D6F87FA4D76B58521A5AE95DA1762",
-                "size": "421521840",
-                "seeders": "432",
-                "leechers": "56"
-            },
-            {
-                "title": "Smiling Friends S02E01 REPACK 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:B6B10193FB22A9E69772B4E8109021D10CE5CE05",
-                "size": "394132931",
-                "seeders": "351",
-                "leechers": "21"
-            },
-            {
-                "title": "A.Murder.Between.Friends.2026.1080p.WEB.H264-RGB",
-                "magnet": "magnet:?xt=urn:btih:B0CDC34DFA782642088DB79D718DEFD4EEB8C2EF",
-                "size": "1706001963",
-                "seeders": "331",
-                "leechers": "29"
-            },
-            {
-                "title": "Smiling Friends S01 1080p WEBRip AAC2 0 x264-BAE",
-                "magnet": "magnet:?xt=urn:btih:51ABF9A51386906E25B7E89F708672AA875C0DEF",
-                "size": "2340757176",
-                "seeders": "330",
-                "leechers": "129"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "The Office",
@@ -479,78 +308,7 @@
         "description": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "The Office (US) (2005) Season 1-9 S01-S09 (1080p BluRay x265 HEV",
-                "magnet": "magnet:?xt=urn:btih:D6797F5408E0C073EBAE41C5AE2A4B354E47812C",
-                "size": "177950402485",
-                "seeders": "370",
-                "leechers": "813"
-            },
-            {
-                "title": "The.Office.US.S01.1080p.BluRay.x265",
-                "magnet": "magnet:?xt=urn:btih:505687740A6466441C1ACDA208790D8F5DEBB4C2",
-                "size": "2263060157",
-                "seeders": "299",
-                "leechers": "36"
-            },
-            {
-                "title": "The.Office.US.S03.1080p.BluRay.x265",
-                "magnet": "magnet:?xt=urn:btih:36980247DAFC2F3E53AFD5F838C50CAD4050EAA1",
-                "size": "9602200553",
-                "seeders": "258",
-                "leechers": "203"
-            },
-            {
-                "title": "The Office US S05E04 Crime Aid Extended Cut 1080p PCOK WEB-DL DDP5 1 H 264-",
-                "magnet": "magnet:?xt=urn:btih:A0B98753F2749BDB26E3155AC22F76694FC8FB2A",
-                "size": "1902773811",
-                "seeders": "253",
-                "leechers": "28"
-            },
-            {
-                "title": "The Office US S05E01 Weight Loss Extended Cut 1080p PCOK WEB-DL DDP5 1 H 26",
-                "magnet": "magnet:?xt=urn:btih:1B10C74271E66355FBCA9380664F2BAC41B42326",
-                "size": "3786133781",
-                "seeders": "245",
-                "leechers": "37"
-            },
-            {
-                "title": "The.Office.US.S04.1080p.BluRay.x265",
-                "magnet": "magnet:?xt=urn:btih:E35B17B01B5A8FFB886F4CE7C0A5ABBE0E418274",
-                "size": "6779548660",
-                "seeders": "231",
-                "leechers": "155"
-            },
-            {
-                "title": "The.Office.US.S02.1080p.BluRay.x265",
-                "magnet": "magnet:?xt=urn:btih:237F2E061B4684487F498CBD90EC651E09249266",
-                "size": "8012267446",
-                "seeders": "229",
-                "leechers": "59"
-            },
-            {
-                "title": "The.Office.US.S07.1080p.BluRay.x265",
-                "magnet": "magnet:?xt=urn:btih:CA73C952DEB088C3D42DD8EDA1BE6F08E6150430",
-                "size": "10234151649",
-                "seeders": "203",
-                "leechers": "56"
-            },
-            {
-                "title": "The.Office.US.S06.1080p.BluRay.x265",
-                "magnet": "magnet:?xt=urn:btih:BBDB8EE7284E5B16FCEF3657B6671E7654CFCBFD",
-                "size": "10086239371",
-                "seeders": "187",
-                "leechers": "78"
-            },
-            {
-                "title": "The.Office.US.S08.1080p.BluRay.x265",
-                "magnet": "magnet:?xt=urn:btih:FBBEAC779023FAD8711855F48932CF27E8C81369",
-                "size": "9135624846",
-                "seeders": "179",
-                "leechers": "34"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Modern Family",
@@ -558,78 +316,7 @@
         "description": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Modern Family S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Joy) [UT",
-                "magnet": "magnet:?xt=urn:btih:8F87C7C186172F17E35F4512BB1A3E93B614ADED",
-                "size": "5395577424",
-                "seeders": "278",
-                "leechers": "345"
-            },
-            {
-                "title": "Modern Family 2009 Season 3 Complete 720p BluRay x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:33CF7E6C97F50769AAC06AD6EF005149341E9FFB",
-                "size": "8665133687",
-                "seeders": "92",
-                "leechers": "49"
-            },
-            {
-                "title": "Modern Family 2009 Season 1 Complete 720p BluRay x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:C7858D817D8E93D9C78BC6242998EEA60C650230",
-                "size": "8816906219",
-                "seeders": "89",
-                "leechers": "36"
-            },
-            {
-                "title": "Modern Family Season 11 Complete 720p AMZN WEB-DL x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:F8E659C0EA3D6D8901B66B655032E30A20377E04",
-                "size": "6231199217",
-                "seeders": "83",
-                "leechers": "63"
-            },
-            {
-                "title": "Modern Family 2009 Season 8 Complete 720p AMZN WEBRip x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:111980BD2424636EC5A8581967DD6510D914D6FD",
-                "size": "7749327649",
-                "seeders": "83",
-                "leechers": "56"
-            },
-            {
-                "title": "Modern Family 2009 Season 2 Complete 720p BluRay x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:CC5C8B2660249FF1FFE37A315A667BDC7F26B4E2",
-                "size": "8855963702",
-                "seeders": "79",
-                "leechers": "61"
-            },
-            {
-                "title": "Modern Family 2009 Season 5 Complete 720p WEB-DL x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:1ABA4E08ED0696D921A74D911FEEBC70D38847A0",
-                "size": "8217417751",
-                "seeders": "79",
-                "leechers": "72"
-            },
-            {
-                "title": "Modern Family 2009 Season 7 Complete 720p WEB-DL x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:68B8782875F444DDDB7D2753C094C303203FAEC3",
-                "size": "7178801700",
-                "seeders": "77",
-                "leechers": "60"
-            },
-            {
-                "title": "Modern Family 2009 Season 6 Complete 720p WEB-DL x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:5E20434A19F7169F278F3ACD9B27561956095CA1",
-                "size": "7686410328",
-                "seeders": "73",
-                "leechers": "76"
-            },
-            {
-                "title": "Modern Family 2009 Season 4 Complete 720p BluRay x264 [i_c]",
-                "magnet": "magnet:?xt=urn:btih:757E2163435731174D60E259A0826ABD46736CAD",
-                "size": "8752705890",
-                "seeders": "72",
-                "leechers": "56"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "South Park",
@@ -637,78 +324,7 @@
         "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "South Park S28E05 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:6404BEB2AD97CAEFDD292E85A210ED1F55FE05C1",
-                "size": "922534794",
-                "seeders": "1850",
-                "leechers": "157"
-            },
-            {
-                "title": "South Park S27E02 Got A Nut 1080p AMZN WEB-DL DDP5 1 H 264-FLUX",
-                "magnet": "magnet:?xt=urn:btih:5DB7C973468090035F8BA07E08E0DCFD5953A42B",
-                "size": "891762229",
-                "seeders": "1492",
-                "leechers": "48"
-            },
-            {
-                "title": "South Park S28E01 Twisted Christian 1080p PMTP WEB-DL DDP5 1 H 264-STC",
-                "magnet": "magnet:?xt=urn:btih:80321DA4B0DF5F40A88954A9C2FC1FE9F71D525D",
-                "size": "272850775",
-                "seeders": "1477",
-                "leechers": "84"
-            },
-            {
-                "title": "South Park S27E01 1080p WEB H264-SuccessfulCrab",
-                "magnet": "magnet:?xt=urn:btih:81BDB5D782A441D1D2918125C0D2E41AD6767CF9",
-                "size": "802897464",
-                "seeders": "1417",
-                "leechers": "64"
-            },
-            {
-                "title": "South Park S27E05 1080p WEB h264-ETHEL",
-                "magnet": "magnet:?xt=urn:btih:7C790A9B7C11CA89B9BC00ADBC19195720DE93CD",
-                "size": "734161196",
-                "seeders": "1395",
-                "leechers": "74"
-            },
-            {
-                "title": "South Park S28E03 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:B9C0C3E533E9DEF1D3648DE15CF1B6CA3CC2EDDB",
-                "size": "800780505",
-                "seeders": "1361",
-                "leechers": "115"
-            },
-            {
-                "title": "South Park S27E04 1080p WEB H264-SuccessfulCrab",
-                "magnet": "magnet:?xt=urn:btih:1E31B658B215EA282E5C663B24CFBDC96102AFDA",
-                "size": "790536715",
-                "seeders": "1336",
-                "leechers": "52"
-            },
-            {
-                "title": "South Park S28E04 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:23BE3C753924D08D977423DA1D75DBDA84C9AF91",
-                "size": "953059721",
-                "seeders": "1281",
-                "leechers": "107"
-            },
-            {
-                "title": "South Park S28E02 1080p WEB h264-EDITH",
-                "magnet": "magnet:?xt=urn:btih:511E8CA3DAEBA445F8ED74C1D81EB4DCEC794A40",
-                "size": "1168216008",
-                "seeders": "1073",
-                "leechers": "77"
-            },
-            {
-                "title": "South Park S27E03 1080p WEB h264-ETHEL",
-                "magnet": "magnet:?xt=urn:btih:05355383B8E5A52A071CBE179F8EC4FE544FE1D6",
-                "size": "746771673",
-                "seeders": "1047",
-                "leechers": "52"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Young Hearts",
@@ -716,78 +332,7 @@
         "description": "Malha\u00e7\u00e3o is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malha\u00e7\u00e3o on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the M\u00faltipla Escolha High School.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Young.Hearts.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-Broodjebal",
-                "magnet": "magnet:?xt=urn:btih:D408EB3839D26BA0A2E33DF4F779B8B0C1428B91",
-                "size": "6857068732",
-                "seeders": "42",
-                "leechers": "7"
-            },
-            {
-                "title": "Young.Hearts.2024.1080p.BluRay.x264-RUSTED",
-                "magnet": "magnet:?xt=urn:btih:056C5CD402750742A516C2593136FBC229EB5791",
-                "size": "10014331244",
-                "seeders": "10",
-                "leechers": "7"
-            },
-            {
-                "title": "Young.Hearts.2021.720p.WEBRip.800MB.x264-GalaxyRG",
-                "magnet": "magnet:?xt=urn:btih:290A621567F9F85F7DF12461A4477682E788F80F",
-                "size": "835021079",
-                "seeders": "7",
-                "leechers": "0"
-            },
-            {
-                "title": "Young Hearts (2024) 1080p BluRay 5.1-WORLD",
-                "magnet": "magnet:?xt=urn:btih:A9F2FE82C37C4B5C50D783CC65BA7761950BFAAF",
-                "size": "1972522405",
-                "seeders": "6",
-                "leechers": "7"
-            },
-            {
-                "title": "The Curse 2023 S01E09 The Curse Young Hearts 1080p AMZN WEB-DL DDP5 1 H 264-NTb",
-                "magnet": "magnet:?xt=urn:btih:A09047CF2075F50E0A2144CFED658F23818A1AA7",
-                "size": "4518983496",
-                "seeders": "5",
-                "leechers": "0"
-            },
-            {
-                "title": "The Curse 2023 S01E09 Young Hearts 2160p PMTP WEB-DL DDP5 1 DV HDR H 265-FL",
-                "magnet": "magnet:?xt=urn:btih:4348403570A14A928DC5A22161E5E6E65C812F5A",
-                "size": "6652746107",
-                "seeders": "5",
-                "leechers": "0"
-            },
-            {
-                "title": "Neil Young And The Chrome Hearts - Talkin To The Trees (2025) [FLAC 24-192]",
-                "magnet": "magnet:?xt=urn:btih:3E42FFC16C8F46686842135BACB8331AADD4565F",
-                "size": "1590016348",
-                "seeders": "5",
-                "leechers": "0"
-            },
-            {
-                "title": "Young.Hearts.2024.720p.BluRay.x264-RUSTED",
-                "magnet": "magnet:?xt=urn:btih:CF749A3CB8328A5796E607C59CB0DD279A877B8D",
-                "size": "4643568256",
-                "seeders": "5",
-                "leechers": "4"
-            },
-            {
-                "title": "[Dangerous video] &hearts; Long-haired young girl with ",
-                "magnet": "magnet:?xt=urn:btih:2FD3A8E639644B91179924E68C1DFA8A67FB9067",
-                "size": "1496804672",
-                "seeders": "3",
-                "leechers": "1"
-            },
-            {
-                "title": "Young Hearts (2024) 720p WEBRip-WORLD",
-                "magnet": "magnet:?xt=urn:btih:ECF9C6D0A898D8650DC19FE647235D42190B343F",
-                "size": "959112636",
-                "seeders": "3",
-                "leechers": "9"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "American Dad!",
@@ -795,78 +340,7 @@
         "description": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "American Dad S01E02 Threat Levels 720p DSNP WEB-DL DD 5 1 H 264-playWEB",
-                "magnet": "magnet:?xt=urn:btih:C006B76930B809B838D179ED5A49409940A42764",
-                "size": "374898795",
-                "seeders": "160",
-                "leechers": "8"
-            },
-            {
-                "title": "American Dad S01E05 Roger Codger 1080p DSNP WEB-DL DDP5 1 H 264-playWEB",
-                "magnet": "magnet:?xt=urn:btih:81DD43267D53DD04D6F2A063A94688D5A4C42AC4",
-                "size": "1122256113",
-                "seeders": "159",
-                "leechers": "4"
-            },
-            {
-                "title": "American Dad S01E04 Francines Flashback 720p DSNP WEB-DL AAC2 0 H 264-playW",
-                "magnet": "magnet:?xt=urn:btih:8B1F39074BE4D735672487AB652E4AF92DF9597E",
-                "size": "349863497",
-                "seeders": "156",
-                "leechers": "12"
-            },
-            {
-                "title": "American Dad S07E19 Gorillas in the Mist 720p DSNP WEB-DL DD 5 1 H 264-play",
-                "magnet": "magnet:?xt=urn:btih:3F539FB9AD4CD41C95EEC0D0EF696255B0ACD41B",
-                "size": "340295306",
-                "seeders": "155",
-                "leechers": "10"
-            },
-            {
-                "title": "American Dad S12E04 Big Stan On Campus 720p DSNP WEB-DL DD 5 1 H 264-playWE",
-                "magnet": "magnet:?xt=urn:btih:1C89074C4A9A9CAED2211AB943A51C2173F0C22B",
-                "size": "344186050",
-                "seeders": "153",
-                "leechers": "8"
-            },
-            {
-                "title": "American Dad S09E05 Why Cant We Be Friends 720p DSNP WEB-DL DD 5 1 H 264-pl",
-                "magnet": "magnet:?xt=urn:btih:365633425461CFFB9A932A2ACE229118C3722773",
-                "size": "315040992",
-                "seeders": "152",
-                "leechers": "5"
-            },
-            {
-                "title": "American Dad S10E13 I Aint No Holodeck Boy 720p DSNP WEB-DL DD 5 1 H 264-pl",
-                "magnet": "magnet:?xt=urn:btih:8D1BF96648BFED28754141586653E7A4389B2AC9",
-                "size": "345905081",
-                "seeders": "151",
-                "leechers": "7"
-            },
-            {
-                "title": "American Dad S10E11 Cock of the Sleepwalk 720p DSNP WEB-DL DD 5 1 H 264-pla",
-                "magnet": "magnet:?xt=urn:btih:45E72C82C36A378669E5FCA6FA828CD524D6D453",
-                "size": "317997506",
-                "seeders": "146",
-                "leechers": "11"
-            },
-            {
-                "title": "American Dad S13E09 Anchorfran 720p DSNP WEB-DL DD 5 1 H 264-playWEB",
-                "magnet": "magnet:?xt=urn:btih:13C464195478A1636CBC39D4072BB8A9DCCD9420",
-                "size": "365303113",
-                "seeders": "138",
-                "leechers": "6"
-            },
-            {
-                "title": "American Dad S01E03 Stan Knows Best 720p DSNP WEB-DL DD 5 1 H 264-playWEB",
-                "magnet": "magnet:?xt=urn:btih:ED050327AD3EE47B941B3CA4B784D84A110CEDC1",
-                "size": "359461124",
-                "seeders": "133",
-                "leechers": "17"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Ninja Boy Rantaro",
@@ -874,15 +348,7 @@
         "description": "Rantar\u014d, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "No results returned",
-                "magnet": "magnet:?xt=urn:btih:0000000000000000000000000000000000000000",
-                "size": "0",
-                "seeders": "0",
-                "leechers": "0"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "The Tonight Show Starring Jimmy Fallon",
@@ -890,78 +356,7 @@
         "description": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "The Tonight Show Starring Jimmy Fallon S12E132 1080p PCOK WEB-DL DDP5 1 H 2",
-                "magnet": "magnet:?xt=urn:btih:AD09B244FE6C74492BEF0296D9ED5BEBAE19F1B3",
-                "size": "2501072485",
-                "seeders": "6",
-                "leechers": "0"
-            },
-            {
-                "title": "The Tonight Show Starring Jimmy Fallon S12E135 1080p PCOK WEB-DL DDP5 1 H 2",
-                "magnet": "magnet:?xt=urn:btih:42FDD7CDD12AB473905945ABDE0CAA4C8DB5A51A",
-                "size": "2517394268",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "The.Tonight.Show.Starring.Jimmy.Fallon.2014.02.17.Will.Smith-U2.",
-                "magnet": "magnet:?xt=urn:btih:CF8FB73749F79894F266C6CBA6F540523B4D03F7",
-                "size": "412121276",
-                "seeders": "1",
-                "leechers": "0"
-            },
-            {
-                "title": "The Tonight Show Starring Jimmy Fallon 2014 02 18 Jerry Seinfeld",
-                "magnet": "magnet:?xt=urn:btih:B32C0763CF7251F453FDD0716DA78AB8514E8FCB",
-                "size": "374039565",
-                "seeders": "1",
-                "leechers": "2"
-            },
-            {
-                "title": "The.Tonight.Show.Starring.Jimmy.Fallon.2014.02.17.Will.Smith-U2.",
-                "magnet": "magnet:?xt=urn:btih:5BDFBF3B38206F83044045C02B92870FA6187C7A",
-                "size": "412116067",
-                "seeders": "1",
-                "leechers": "0"
-            },
-            {
-                "title": "The Tonight Show Starring Jimmy Fallon 10th Anniversary",
-                "magnet": "magnet:?xt=urn:btih:544DCF5571E967298185DF313BD40ABEDE3AE403",
-                "size": "813970429",
-                "seeders": "1",
-                "leechers": "0"
-            },
-            {
-                "title": "The.Tonight.Show.Starring.Jimmy.Fallon.2014.02.17.Will.Smith-U2.",
-                "magnet": "magnet:?xt=urn:btih:4F0E03A774576A0402A52990D0C62C519E454653",
-                "size": "475050247",
-                "seeders": "0",
-                "leechers": "0"
-            },
-            {
-                "title": "The.Tonight.Show.Starring.Jimmy.Fallon.2014.02.17.Will.Smith-U2.",
-                "magnet": "magnet:?xt=urn:btih:543A247BFF9C8AAD3A1A8E524ACD8AA23176F838",
-                "size": "246911090",
-                "seeders": "0",
-                "leechers": "1"
-            },
-            {
-                "title": "The.Tonight.Show.Starring.Jimmy.Fallon.2014.02.18.Jerry.Seinfeld",
-                "magnet": "magnet:?xt=urn:btih:CBB7DB29A00C4D0A3B85C7036D4F9CC6AF1A83F4",
-                "size": "374044256",
-                "seeders": "0",
-                "leechers": "0"
-            },
-            {
-                "title": "The.Tonight.Show.Starring.Jimmy.Fallon.2014.02.18.Jerry.Seinfeld",
-                "magnet": "magnet:?xt=urn:btih:60556A3C1C67890AE8F8175AD1186B65080BAD71",
-                "size": "1068351030",
-                "seeders": "0",
-                "leechers": "0"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Fuse",
@@ -969,78 +364,7 @@
         "description": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some of the episodes were aimed at children, and were called \u0424\u0438\u0442\u0438\u043b\u0451\u043a, Fitilyok, Little Fuse. Each issue contained from the few short segments: documentary, fictional and animated ones. Directed by various artists, including Leonid Gaidai who presented his famous trio of Nikulin, Vitsin and Morgunov into the cast. It was called in USSR as \"the anecdotes from the Soviet government\".",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Man Seeking Woman S02E08 Fuse 1080p DSNP WEB-DL DDP5 1 H 264-FLUX",
-                "magnet": "magnet:?xt=urn:btih:A2BCBEC4A781ABFED89612CAA8663D24EE0798C9",
-                "size": "1022136412",
-                "seeders": "17",
-                "leechers": "1"
-            },
-            {
-                "title": "Keith Urban - Fuse (Deluxe Edition) 2013 Country 320kbps CBR MP3",
-                "magnet": "magnet:?xt=urn:btih:0D72A2598B17A332C003A17A9BD3DFCEAB764BD5",
-                "size": "138738135",
-                "seeders": "9",
-                "leechers": "0"
-            },
-            {
-                "title": "Columbo S01E08 Short Fuse 1080p BluRay x264-OFT",
-                "magnet": "magnet:?xt=urn:btih:A7816BAB083032A06543A752EB222FD33E22F3CF",
-                "size": "3369176037",
-                "seeders": "8",
-                "leechers": "4"
-            },
-            {
-                "title": "S.W.A.T.2017.S05E13.Short.Fuse.1080p.HEVC.x265-MeGusta",
-                "magnet": "magnet:?xt=urn:btih:4DA5DABB589EE104F0808E014C6A6CBE459CE762",
-                "size": "676711189",
-                "seeders": "5",
-                "leechers": "3"
-            },
-            {
-                "title": "Lustery E1557 Abril Laura And Lia Glitter Fuse Together XXX 108",
-                "magnet": "magnet:?xt=urn:btih:455ADEF95C0BF4C1F425A10A0E6387D0271AD2D5",
-                "size": "977664436",
-                "seeders": "4",
-                "leechers": "0"
-            },
-            {
-                "title": "Power.Book.IV.Force.S01E01.A.Short.Fuse.and.a.Long.Memory.720p.A",
-                "magnet": "magnet:?xt=urn:btih:46EF3F862EA9C0A73B376BB717BA5BE994CCEB51",
-                "size": "1630308688",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "Power.Book.IV.Force.S01E01.A.Short.Fuse.and.a.Long.Memory.1080p.",
-                "magnet": "magnet:?xt=urn:btih:104A94C77EEF5A3AE67C3199FEC5547548322CD9",
-                "size": "3643199285",
-                "seeders": "2",
-                "leechers": "2"
-            },
-            {
-                "title": "Kix - Blow My Fuse",
-                "magnet": "magnet:?xt=urn:btih:4EFB9B0D66D8A5E31538085D2ADD7CE1ECA6B6A0",
-                "size": "143181828",
-                "seeders": "1",
-                "leechers": "1"
-            },
-            {
-                "title": "The Rolling Stones - Light The Fuse 2005 [320k MP3]",
-                "magnet": "magnet:?xt=urn:btih:1FFC35AC34FC3F77D39B02FA59BD24D98491CBB4",
-                "size": "174781041",
-                "seeders": "1",
-                "leechers": "0"
-            },
-            {
-                "title": "FUSE.PS3-DUPLEX",
-                "magnet": "magnet:?xt=urn:btih:19A77E52DA89E5720FD1B2E721191E37CFA5AAAE",
-                "size": "11443376846",
-                "seeders": "1",
-                "leechers": "1"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Dr\u017eavni posao",
@@ -1048,29 +372,7 @@
         "description": "The backbone of the \"Dr\u017eavni Posao (Government Job)\" are satirical talks between the three actors, the comments are reminiscent of the \"stand-up\" form. These are short, witty comments and observations on daily life, circumstances, sociopolitical situation, sports, entertainment world, their personal opinions on various topics. The main idea is to present day in a non-existent government company and three employees of thinking about daily events in it, but also about life and society in general. Topics drawn from the daily and weekly press, for various blogs, websites, talk about movies, series, shows - radio and television. The idea is that actors humorously comment on current events, to laugh viewers and encourage them to think about them.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Dr\u017eavni Posao (Sezona 1, RTV) E1-187",
-                "magnet": "magnet:?xt=urn:btih:74F23EB4406BE2E7C97ECC0877D0FFBA69C7046E",
-                "size": "15507578736",
-                "seeders": "0",
-                "leechers": "1"
-            },
-            {
-                "title": "Dr\u017eavni Posao (Sezona 2, RTV) E188-401 ",
-                "magnet": "magnet:?xt=urn:btih:9B454B3E943D4B49F06C9170430FAC0E2CF20052",
-                "size": "22239159724",
-                "seeders": "0",
-                "leechers": "0"
-            },
-            {
-                "title": "Dr\u017eavni Posao (Sezona 3, RTV) E402-591",
-                "magnet": "magnet:?xt=urn:btih:DF1AB9C3BCC0F3DAD2749178B5EB92FF1287DC93",
-                "size": "25350525098",
-                "seeders": "0",
-                "leechers": "1"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Sazae-san",
@@ -1078,15 +380,7 @@
         "description": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Sazae-san Anime",
-                "magnet": "magnet:?xt=urn:btih:0E6314DAD1A397F26C3F07E0BE311F30FD7270CE",
-                "size": "514058160",
-                "seeders": "0",
-                "leechers": "1"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "HK 80's",
@@ -1094,15 +388,7 @@
         "description": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eventually replaced by a new sitcom called \"City Stories.\" A total of 1330 episodes were produced, making it the second-longest-running series in Hong Kong, after \"Come Home Love: Lo and Behold\".\n\nEach episode of this series is inspired by current social issues, with early storylines often satirizing society's flaws. The characters, such as \"Chen Ji,\" \"Mrs. Shun,\" \"Uncle Mao,\" \"Jue Wu Yin,\" \"Miss Su,\" \"A Wei,\" and \"Ah Kang,\" mostly hail from the grassroots, leaving a lasting impression on the audience. For example, \"Mrs. Shun,\" portrayed by Lydia Shum, later became a term to describe uneducated women who follow trends blindly. \"Chen Ji,\" played by Lawrence Ng, is a stockbroker who loves to show off his wealth, and his behavior typified that of many Hong Kongers, becoming a byword for the city's nouveau riche.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "No results returned",
-                "magnet": "magnet:?xt=urn:btih:0000000000000000000000000000000000000000",
-                "size": "0",
-                "seeders": "0",
-                "leechers": "0"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Doraemon",
@@ -1110,78 +396,7 @@
         "description": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1",
-                "magnet": "magnet:?xt=urn:btih:29A58EC50585F1737987D424CBD5D536FF274073",
-                "size": "1643675052",
-                "seeders": "13",
-                "leechers": "2"
-            },
-            {
-                "title": "Stand By Me Doraemon 1 And 2 2014-2020 720p.BluRay x264 Mkvking",
-                "magnet": "magnet:?xt=urn:btih:91E2B1623F662E78079471F6EA44C4188DE54562",
-                "size": "1686949207",
-                "seeders": "7",
-                "leechers": "2"
-            },
-            {
-                "title": "Doraemon The Movie Nobitas Earth Symphony (2024) 1080p BluRay 5.1-WORLD",
-                "magnet": "magnet:?xt=urn:btih:26CA05C18BC9705BC2114A56C2445F2AC02D913C",
-                "size": "2277750338",
-                "seeders": "7",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon.Nobita.and.the.Island.of.Miracles.Animal.Adventure.2012",
-                "magnet": "magnet:?xt=urn:btih:691E27FA5FF3FC2FC122C75C85873CA4D9D9A23F",
-                "size": "7577481234",
-                "seeders": "6",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon.the.Movie.Nobitas.Secret.Gadget.Museum.2013.1080p.BluRa",
-                "magnet": "magnet:?xt=urn:btih:B70C1477A825AF7DB814E530E09EF9A7088B99D8",
-                "size": "8537346117",
-                "seeders": "4",
-                "leechers": "0"
-            },
-            {
-                "title": "Doraemon Dorayaki Shop Story",
-                "magnet": "magnet:?xt=urn:btih:3A3A57FEBE6F17331416BFE1BF6FE780FD138FC3",
-                "size": "60626961",
-                "seeders": "3",
-                "leechers": "0"
-            },
-            {
-                "title": "Doraemon.Great.Adventure.in.the.Antarctic.Kachi.Kochi.2017.Bl...",
-                "magnet": "magnet:?xt=urn:btih:56EBC8440709B52487FCC0567367F11F6DF4C918",
-                "size": "4695937282",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon Nobitas New Dinosaur 2020 720p Japanese BluRay H264",
-                "magnet": "magnet:?xt=urn:btih:045C538A9B9D749C0FE9F6124818AA7514206444",
-                "size": "937809087",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
-                "magnet": "magnet:?xt=urn:btih:CD2D45A4FC1C28643A6C71FC3C334783923DB3AE",
-                "size": "1805951394",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon The Movie Nobitas Sky Utopia (2023) 1080p BluRay 5.1-WORLD",
-                "magnet": "magnet:?xt=urn:btih:7C907A6352FD0E25DE79BB3E5C4FE76B3D24FE52",
-                "size": "2147816126",
-                "seeders": "2",
-                "leechers": "1"
-            }
-        ]
+        "torrents": {}
     },
     {
         "title": "Two and a Half Men",
@@ -1189,78 +404,18 @@
         "description": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Two and a Half Men S06E21 Above Exalted Cyclops BluRay 1080p FLAC 2 0 AVC R",
-                "magnet": "magnet:?xt=urn:btih:8D7C1CF2BB954D5982A269CD21D007F23E854654",
-                "size": "3210156525",
-                "seeders": "141",
-                "leechers": "31"
-            },
-            {
-                "title": "Two.and.a.Half.Men.2003.COMPLETE.SERIES.720p.AMZN.WEBRip.x264-Ga",
-                "magnet": "magnet:?xt=urn:btih:39402646D1815DB88C6C49C9DE263C426C059023",
-                "size": "47380546185",
-                "seeders": "90",
-                "leechers": "408"
-            },
-            {
-                "title": "Two and a Half Men S06E03 Damn You Eggs Benedict BluRay 1080p FLAC 2 0 AVC ",
-                "magnet": "magnet:?xt=urn:btih:BEF20FAB4A26937C98B575C98C82B050ACF63E7E",
-                "size": "3092939868",
-                "seeders": "78",
-                "leechers": "10"
-            },
-            {
-                "title": "Two and a Half Men S06E12 Thank God for Scoliosis BluRay 1080p FLAC 2 0 AVC",
-                "magnet": "magnet:?xt=urn:btih:A5D450BD0B625214967349F98EC9A0272CBE6980",
-                "size": "3042196554",
-                "seeders": "69",
-                "leechers": "6"
-            },
-            {
-                "title": "Two and a Half Men S06E18 My Sons Enormous Head BluRay 1080p FLAC 2 0 AVC R",
-                "magnet": "magnet:?xt=urn:btih:7129891F13EA047B14B41884846404D68B61EE18",
-                "size": "3197042753",
-                "seeders": "61",
-                "leechers": "4"
-            },
-            {
-                "title": "Two and a Half Men Season 1 Complete 720p WEB x264 [NOSUBS] [i_c",
-                "magnet": "magnet:?xt=urn:btih:6753717D9C892EA6DC1EE5F2B4B5C8E07801C014",
-                "size": "6197601450",
-                "seeders": "49",
-                "leechers": "40"
-            },
-            {
-                "title": "Two.and.a.Half.Men.S01.1080p.WEBRip.x265-RARBN",
-                "magnet": "magnet:?xt=urn:btih:C8D2D394AFE520E5905355F470A1C3359816E7AE",
-                "size": "8408130525",
-                "seeders": "46",
-                "leechers": "32"
-            },
-            {
-                "title": "Two and a Half Men Season 1 2 3 4 5 6 7 8 9 10 11 12 threesixtyp",
-                "magnet": "magnet:?xt=urn:btih:76FE5A70FF7FBDFAD66B88A0508B12AAF157CF53",
-                "size": "16103465060",
-                "seeders": "44",
-                "leechers": "110"
-            },
-            {
-                "title": "Two and a Half Men S06E09 The Mooch at the Boo BluRay 1080p FLAC 2 0 AVC RE",
-                "magnet": "magnet:?xt=urn:btih:62EFCEC2BA5A6F97E483D03F56B3C0F3FC78810B",
-                "size": "3109693156",
-                "seeders": "31",
-                "leechers": "3"
-            },
-            {
-                "title": "Two and a Half Men Season 3 Complete 720p WEB x264 [NOSUBS] [i_c",
-                "magnet": "magnet:?xt=urn:btih:ABC25C7CA4BB86103FF4DE74279D1526C3FD105E",
-                "size": "6308114094",
-                "seeders": "30",
-                "leechers": "9"
-            }
-        ]
+        "torrents": {
+            "Season 2": [
+                {
+                    "title": "Two and a Half Men S02 Season 2 720p Web-DL ReEnc-DeeJayAhmed",
+                    "magnet": "magnet:?xt=urn:btih:67D45795F7709C83D181D6E91381130CBA9C2113",
+                    "size": "3956099204",
+                    "seeders": "5",
+                    "leechers": "7",
+                    "type": "season_pack"
+                }
+            ]
+        }
     },
     {
         "title": "Doraemon",
@@ -1268,77 +423,6 @@
         "description": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is the much more successful successor of the 1973 anime.",
         "genre": "Comedy",
         "type": "tv",
-        "torrents": [
-            {
-                "title": "Doraemon The Movie Nobitas Sky Utopia 2023 1080P Japanese BluRay HEVC x265 5.1",
-                "magnet": "magnet:?xt=urn:btih:29A58EC50585F1737987D424CBD5D536FF274073",
-                "size": "1643675052",
-                "seeders": "13",
-                "leechers": "2"
-            },
-            {
-                "title": "Stand By Me Doraemon 1 And 2 2014-2020 720p.BluRay x264 Mkvking",
-                "magnet": "magnet:?xt=urn:btih:91E2B1623F662E78079471F6EA44C4188DE54562",
-                "size": "1686949207",
-                "seeders": "7",
-                "leechers": "2"
-            },
-            {
-                "title": "Doraemon The Movie Nobitas Earth Symphony (2024) 1080p BluRay 5.1-WORLD",
-                "magnet": "magnet:?xt=urn:btih:26CA05C18BC9705BC2114A56C2445F2AC02D913C",
-                "size": "2277750338",
-                "seeders": "7",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon.Nobita.and.the.Island.of.Miracles.Animal.Adventure.2012",
-                "magnet": "magnet:?xt=urn:btih:691E27FA5FF3FC2FC122C75C85873CA4D9D9A23F",
-                "size": "7577481234",
-                "seeders": "6",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon.the.Movie.Nobitas.Secret.Gadget.Museum.2013.1080p.BluRa",
-                "magnet": "magnet:?xt=urn:btih:B70C1477A825AF7DB814E530E09EF9A7088B99D8",
-                "size": "8537346117",
-                "seeders": "4",
-                "leechers": "0"
-            },
-            {
-                "title": "Doraemon Dorayaki Shop Story",
-                "magnet": "magnet:?xt=urn:btih:3A3A57FEBE6F17331416BFE1BF6FE780FD138FC3",
-                "size": "60626961",
-                "seeders": "3",
-                "leechers": "0"
-            },
-            {
-                "title": "Doraemon.Great.Adventure.in.the.Antarctic.Kachi.Kochi.2017.Bl...",
-                "magnet": "magnet:?xt=urn:btih:56EBC8440709B52487FCC0567367F11F6DF4C918",
-                "size": "4695937282",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon Nobitas New Dinosaur 2020 720p Japanese BluRay H264",
-                "magnet": "magnet:?xt=urn:btih:045C538A9B9D749C0FE9F6124818AA7514206444",
-                "size": "937809087",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "DORAEMON STORY OF SEASONS: Friends of the Great Kingdom",
-                "magnet": "magnet:?xt=urn:btih:CD2D45A4FC1C28643A6C71FC3C334783923DB3AE",
-                "size": "1805951394",
-                "seeders": "2",
-                "leechers": "1"
-            },
-            {
-                "title": "Doraemon The Movie Nobitas Sky Utopia (2023) 1080p BluRay 5.1-WORLD",
-                "magnet": "magnet:?xt=urn:btih:7C907A6352FD0E25DE79BB3E5C4FE76B3D24FE52",
-                "size": "2147816126",
-                "seeders": "2",
-                "leechers": "1"
-            }
-        ]
+        "torrents": {}
     }
 ]
