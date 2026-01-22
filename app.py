@@ -101,8 +101,8 @@ if QB_AVAILABLE:
     os.makedirs(downloads_dir, exist_ok=True)
     transcoded_dir = os.path.join(os.getcwd(), 'transcoded')
     os.makedirs(transcoded_dir, exist_ok=True)
-    ffmpeg_path = os.path.join(os.getcwd(), 'ffmpeg-8.0.1-essentials_build', 'bin', 'ffmpeg.exe')
-    ffprobe_path = os.path.join(os.getcwd(), 'ffmpeg-8.0.1-essentials_build', 'bin', 'ffprobe.exe')
+    ffmpeg_path = os.path.join(os.getcwd(), 'ffmpeg.exe')
+    ffprobe_path = os.path.join(os.getcwd(), 'ffprobe.exe')
     qb_client = None
     qb_process = None
 else:
