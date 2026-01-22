@@ -1,0 +1,801 @@
+(N) 2026-01-22T09:42:16 - qBittorrent v5.1.4 started. Process ID: 20344
+(N) 2026-01-22T09:42:16 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:42:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T09:42:22 - Peer ID: "-qB5140-"
+(I) 2026-01-22T09:42:22 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T09:42:22 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T09:42:22 - Local Peer Discovery support: ON
+(I) 2026-01-22T09:42:22 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T09:42:22 - Anonymous mode: OFF
+(I) 2026-01-22T09:42:22 - Encryption support: ON
+(I) 2026-01-22T09:42:22 - UPnP/NAT-PMP support: ON
+(W) 2026-01-22T09:42:22 - Couldn't load IP geolocation database. Reason: The system cannot find the path specified.
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T09:42:22 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(I) 2026-01-22T09:42:22 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:42:22 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:42:22 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:42:22 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:42:23 - Detected external IP. IP: "196.216.135.79"
+(I) 2026-01-22T09:42:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(I) 2026-01-22T09:42:23 - Successfully updated IP geolocation database.
+(N) 2026-01-22T09:43:01 - Added new torrent. Torrent: "Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T09:43:43 - Torrent stopped. Torrent: "Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T09:43:50 - Torrent removed. Torrent: "Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T09:43:50 - Torrent content removed. Torrent: "Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T09:43:59 - qBittorrent termination initiated
+(N) 2026-01-22T09:43:59 - Saving resume data completed.
+(N) 2026-01-22T09:43:59 - BitTorrent session successfully finished.
+(N) 2026-01-22T09:43:59 - qBittorrent is now ready to exit
+(N) 2026-01-22T09:44:34 - qBittorrent v5.1.4 started. Process ID: 27644
+(N) 2026-01-22T09:44:34 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:44:34 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T09:44:34 - Peer ID: "-qB5140-"
+(I) 2026-01-22T09:44:34 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T09:44:34 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T09:44:34 - Local Peer Discovery support: ON
+(I) 2026-01-22T09:44:34 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T09:44:34 - Anonymous mode: OFF
+(I) 2026-01-22T09:44:34 - Encryption support: ON
+(I) 2026-01-22T09:44:34 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T09:44:34 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(I) 2026-01-22T09:44:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(I) 2026-01-22T09:44:34 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:44:34 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:44:34 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:44:34 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:44:34 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T09:45:57 - qBittorrent v5.1.4 started. Process ID: 6128
+(N) 2026-01-22T09:45:57 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:45:57 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T09:45:57 - Peer ID: "-qB5140-"
+(I) 2026-01-22T09:45:57 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T09:45:57 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T09:45:57 - Local Peer Discovery support: ON
+(I) 2026-01-22T09:45:57 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T09:45:57 - Anonymous mode: OFF
+(I) 2026-01-22T09:45:57 - Encryption support: ON
+(I) 2026-01-22T09:45:57 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T09:45:57 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(I) 2026-01-22T09:45:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(I) 2026-01-22T09:45:57 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:45:57 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:45:57 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:45:57 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:45:57 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T09:46:01 - qBittorrent termination initiated
+(N) 2026-01-22T09:46:01 - Saving resume data completed.
+(N) 2026-01-22T09:46:01 - BitTorrent session successfully finished.
+(N) 2026-01-22T09:46:01 - qBittorrent is now ready to exit
+(N) 2026-01-22T09:52:16 - qBittorrent v5.1.4 started. Process ID: 12292
+(N) 2026-01-22T09:52:16 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:52:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T09:52:16 - Peer ID: "-qB5140-"
+(I) 2026-01-22T09:52:16 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T09:52:16 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T09:52:16 - Local Peer Discovery support: ON
+(I) 2026-01-22T09:52:16 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T09:52:16 - Anonymous mode: OFF
+(I) 2026-01-22T09:52:16 - Encryption support: ON
+(I) 2026-01-22T09:52:16 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T09:52:16 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(I) 2026-01-22T09:52:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(I) 2026-01-22T09:52:16 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:52:16 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:52:16 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:52:16 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:52:16 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T09:52:30 - qBittorrent termination initiated
+(N) 2026-01-22T09:52:30 - Saving resume data completed.
+(N) 2026-01-22T09:52:30 - BitTorrent session successfully finished.
+(N) 2026-01-22T09:52:30 - qBittorrent is now ready to exit
+(N) 2026-01-22T09:53:38 - qBittorrent v5.1.4 started. Process ID: 28616
+(N) 2026-01-22T09:53:38 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:53:38 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T09:53:38 - Peer ID: "-qB5140-"
+(I) 2026-01-22T09:53:38 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T09:53:38 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T09:53:38 - Local Peer Discovery support: ON
+(I) 2026-01-22T09:53:38 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T09:53:38 - Anonymous mode: OFF
+(I) 2026-01-22T09:53:38 - Encryption support: ON
+(I) 2026-01-22T09:53:38 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T09:53:38 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(I) 2026-01-22T09:53:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(I) 2026-01-22T09:53:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:53:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:53:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:53:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:53:38 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T09:54:36 - Options saved.
+(N) 2026-01-22T09:54:36 - Using built-in WebUI.
+(N) 2026-01-22T09:54:36 - WebUI translation for selected locale (en) has been successfully loaded.
+(C) 2026-01-22T09:54:36 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(N) 2026-01-22T09:55:37 - qBittorrent termination initiated
+(N) 2026-01-22T09:55:37 - Saving resume data completed.
+(N) 2026-01-22T09:55:38 - BitTorrent session successfully finished.
+(N) 2026-01-22T09:55:38 - qBittorrent is now ready to exit
+(N) 2026-01-22T09:56:12 - qBittorrent v5.1.4 started. Process ID: 28632
+(N) 2026-01-22T09:56:12 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:56:12 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T09:56:12 - Peer ID: "-qB5140-"
+(I) 2026-01-22T09:56:12 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T09:56:12 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T09:56:12 - Local Peer Discovery support: ON
+(I) 2026-01-22T09:56:12 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T09:56:12 - Anonymous mode: OFF
+(I) 2026-01-22T09:56:12 - Encryption support: ON
+(I) 2026-01-22T09:56:12 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T09:56:12 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(I) 2026-01-22T09:56:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(N) 2026-01-22T09:56:12 - Using built-in WebUI.
+(N) 2026-01-22T09:56:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(C) 2026-01-22T09:56:12 - WebUI: Unable to bind to IP: *, port: 8080. Reason: The bound address is already in use
+(I) 2026-01-22T09:56:12 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:56:12 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:56:12 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:56:12 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:56:13 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T09:57:37 - Options saved.
+(N) 2026-01-22T09:57:37 - WebUI: Now listening on IP: *, port: 5001
+(N) 2026-01-22T09:57:50 - qBittorrent termination initiated
+(N) 2026-01-22T09:57:50 - Saving resume data completed.
+(N) 2026-01-22T09:57:50 - BitTorrent session successfully finished.
+(N) 2026-01-22T09:57:50 - qBittorrent is now ready to exit
+tarted. Process ID: 28148
+(N) 2026-01-22T09:56:36 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:56:36 - qBittorrent termination initiated
+(N) 2026-01-22T09:56:36 - qBittorrent is now ready to exit
+(N) 2026-01-22T09:56:46 - qBittorrent v5.1.4 started. Process ID: 26772
+(N) 2026-01-22T09:56:46 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:56:46 - qBittorrent termination initiated
+(N) 2026-01-22T09:56:46 - qBittorrent is now ready to exit
+(N) 2026-01-22T09:56:56 - qBittorrent v5.1.4 started. Process ID: 27164
+(N) 2026-01-22T09:56:56 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:56:56 - qBittorrent termination initiated
+(N) 2026-01-22T09:56:56 - qBittorrent is now ready to exit
+(N) 2026-01-22T09:59:43 - qBittorrent v5.1.4 started. Process ID: 28008
+(N) 2026-01-22T09:59:43 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T09:59:43 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T09:59:43 - Peer ID: "-qB5140-"
+(I) 2026-01-22T09:59:43 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T09:59:43 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T09:59:43 - Local Peer Discovery support: ON
+(I) 2026-01-22T09:59:43 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T09:59:43 - Anonymous mode: OFF
+(I) 2026-01-22T09:59:43 - Encryption support: ON
+(I) 2026-01-22T09:59:43 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T09:59:43 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(I) 2026-01-22T09:59:43 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(N) 2026-01-22T09:59:43 - Using built-in WebUI.
+(N) 2026-01-22T09:59:43 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-01-22T09:59:43 - WebUI: Now listening on IP: *, port: 5001
+(I) 2026-01-22T09:59:43 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:59:43 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T09:59:43 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T09:59:43 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(I) 2026-01-22T09:59:43 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - Added new torrent. Torrent: "ada06433856c8f5845feed8b65be0e72e1b1787a"
+(N) 2026-01-22T09:59:43 - Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:ADA06433856C8F5845FEED8B65BE0E72E1B1787A. Existing torrent: ada06433856c8f5845feed8b65be0e72e1b1787a. Result: Merging of trackers is disabled
+(N) 2026-01-22T09:59:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:43 - Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:ADA06433856C8F5845FEED8B65BE0E72E1B1787A. Existing torrent: ada06433856c8f5845feed8b65be0e72e1b1787a. Result: Merging of trackers is disabled
+(N) 2026-01-22T09:59:52 - WebAPI login success. IP: ::1
+(N) 2026-01-22T09:59:52 - Options saved.
+(N) 2026-01-22T09:59:52 - Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:ADA06433856C8F5845FEED8B65BE0E72E1B1787A. Existing torrent: Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv. Result: Merging of trackers is disabled
+(N) 2026-01-22T10:00:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:17 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:22 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:25 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:25 - Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:ADA06433856C8F5845FEED8B65BE0E72E1B1787A. Existing torrent: Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv. Result: Merging of trackers is disabled
+(N) 2026-01-22T10:00:27 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:32 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:42 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:47 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:52 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:00:57 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:02 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:17 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:22 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:27 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:32 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:42 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:47 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:52 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:01:57 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:02 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:17 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:22 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:27 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:32 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:42 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:47 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:52 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:02:57 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:02 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:27 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:27 - Added new torrent. Torrent: "927bec221ece5e95e55fa6be735230324110832f"
+(N) 2026-01-22T10:03:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:03:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:04:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:12 - Torrent download finished. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv"
+(N) 2026-01-22T10:05:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:05:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:06:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:07:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:08:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:09:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:23 - WebAPI login success. IP: ::1
+(I) 2026-01-22T10:10:26 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T10:10:26 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T10:10:26 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "TCP/11151"
+(I) 2026-01-22T10:10:26 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "UTP/11151"
+(N) 2026-01-22T10:10:28 - WebAPI login success. IP: ::1
+(I) 2026-01-22T10:10:29 - Successfully listening on IP. IP: "10.8.0.38". Port: "TCP/11151"
+(I) 2026-01-22T10:10:29 - Successfully listening on IP. IP: "10.8.0.38". Port: "UTP/11151"
+(N) 2026-01-22T10:10:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:10:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:11:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:11:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:11:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:11:18 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:11:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:11:28 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:12:29 - WebAPI login success. IP: ::1
+(W) 2026-01-22T10:13:05 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[10.8.0.38]: no router found"
+(W) 2026-01-22T10:13:05 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[10.8.0.38]: no router found"
+(N) 2026-01-22T10:13:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:14:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:15:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:16:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:17:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:18:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:19:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:20:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:21:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:22:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:23:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:24:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:25:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:26:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:26:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:26:58 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:44 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:54 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:59 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:27:59 - Torrent download finished. Torrent: "Avatar.Fire.and.Ash.2025.1080p.TS.EN-RGB"
+(N) 2026-01-22T10:28:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:44 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:54 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:28:59 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:44 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:54 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:29:59 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:44 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:54 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:30:59 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:44 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:54 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:31:59 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:44 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:54 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:32:59 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:33:42 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:35:07 - Torrent removed. Torrent: "Avatar.Fire.and.Ash.2025.1080p.TS.EN-RGB"
+(N) 2026-01-22T10:35:07 - Torrent content removed. Torrent: "Avatar.Fire.and.Ash.2025.1080p.TS.EN-RGB"
+(N) 2026-01-22T10:36:25 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:36:25 - Added new torrent. Torrent: "c7507abff332c86230ed3aaa583e24a51f27bec2"
+(N) 2026-01-22T10:36:27 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:36:32 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:36:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:36:42 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:38:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:38:17 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:38:22 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:39:31 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:39:41 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:42:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:43:36 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:43:36 - Added new torrent. Torrent: "961cba21168bb8b7bb5c34f0c65dfddca0cf1d6d"
+(N) 2026-01-22T10:43:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:43:42 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:44:05 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:44:05 - Torrent removed. Torrent: "War of the Worlds (2005) [1080p]"
+(N) 2026-01-22T10:44:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:44:30 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:45:42 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:47:03 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:48:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:49:27 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:49:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T10:50:50 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:03:55 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:04:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:04:47 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:04:47 - Added new torrent. Torrent: "e71a7f5b80363158d7f0c858f004ddc37ff926cb"
+(N) 2026-01-22T11:04:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:04:53 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:06:00 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:06:00 - Torrent removed. Torrent: "e71a7f5b80363158d7f0c858f004ddc37ff926cb"
+(N) 2026-01-22T11:06:02 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:06:30 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:06:30 - Added new torrent. Torrent: "df663c2aeaf6310bd9418aa8bc72b38a48adeec5"
+(N) 2026-01-22T11:06:32 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:06:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:07:22 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:09:06 - WebAPI login success. IP: ::1
+(W) 2026-01-22T11:09:08 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(N) 2026-01-22T11:09:16 - WebAPI login success. IP: ::1
+(W) 2026-01-22T11:09:18 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:09:28 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:09:34 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:09:35 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:09:43 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:11:19 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:11:22 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(N) 2026-01-22T11:11:54 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:12:06 - WebAPI login success. IP: ::1
+(W) 2026-01-22T11:12:37 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:12:47 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:12:50 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(N) 2026-01-22T11:13:45 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:13:55 - WebAPI login success. IP: ::1
+(W) 2026-01-22T11:14:25 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:14:35 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:14:42 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(W) 2026-01-22T11:14:53 - File error alert. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". File: "C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv". Reason: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv file_open (C:\New_Projects\JetFlix\downloads\Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv) error: The system cannot find the file specified"
+(N) 2026-01-22T11:17:30 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:17:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:17:48 - Torrent removed. Torrent: "Predator Badlands 2025 1080p HDRip HEVC x265 BONE.mkv"
+(N) 2026-01-22T11:17:50 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:19:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:19:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:19:39 - Added new torrent. Torrent: "2730164a836b8088d685185a24639ff851980480"
+(N) 2026-01-22T11:19:41 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:19:49 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:23:21 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:25:37 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:25:37 - Added new torrent. Torrent: "67f51b500bfc4c270baa8efd0f86a53268db1b06"
+(N) 2026-01-22T11:25:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:25:56 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:26:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:26:16 - Torrent download finished. Torrent: "www.UIndex.org    -    War of the Worlds 2025 1080p AMZN WEB-DL DDP5 1 H 264-FLUX"
+(N) 2026-01-22T11:27:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:34:59 - Torrent download finished. Torrent: "www.UIndex.org    -    Jujutsu Kaisen S03E01 Execution REPACK 1080p CR WEB-DL AAC2 0 H 264-playWEB"
+(N) 2026-01-22T11:37:24 - Torrent download finished. Torrent: "www.UIndex.org    -    The Great Flood (2025) 720p WEBRip-WORLD"
+(N) 2026-01-22T11:38:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:38:07 - Added new torrent. Torrent: "afdda99e58ef3ba85c39da90ad5301c22b5a7163"
+(N) 2026-01-22T11:38:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:38:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:41:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:41:38 - Torrent removed. Torrent: "www.UIndex.org    -    Jujutsu Kaisen S03E01 Execution REPACK 1080p CR WEB-DL AAC2 0 H 264-playWEB"
+(N) 2026-01-22T11:41:45 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:41:46 - WebAPI login success. IP: ::1
+(N) 2026-01-22T11:47:34 - Torrent download finished. Torrent: "Tron Ares (2025) [1080p] [WEBRip] [5.1] [YTS.LT]"
+(N) 2026-01-22T12:04:00 - WebAPI login success. IP: ::1
+(I) 2026-01-22T12:10:32 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "TCP/11151"
+(I) 2026-01-22T12:10:32 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "UTP/11151"
+(I) 2026-01-22T12:10:35 - Successfully listening on IP. IP: "10.8.0.38". Port: "TCP/11151"
+(I) 2026-01-22T12:10:35 - Successfully listening on IP. IP: "10.8.0.38". Port: "UTP/11151"
+(N) 2026-01-22T12:11:11 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:11:40 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:12:28 - WebAPI login success. IP: ::1
+(W) 2026-01-22T12:13:11 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[10.8.0.38]: no router found"
+(W) 2026-01-22T12:13:11 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[10.8.0.38]: no router found"
+(N) 2026-01-22T12:14:48 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:18:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:20:09 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:21:43 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:25:20 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:25:20 - Added new torrent. Torrent: "7338e7646641905dee84ef44017275dc5f572daf"
+(N) 2026-01-22T12:25:22 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:29:39 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:35:56 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:42:50 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:42:50 - Added new torrent. Torrent: "08233acae16276f3138b0032e918f75776f785d5"
+(N) 2026-01-22T12:42:52 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:42:56 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:44:55 - WebAPI login success. IP: ::1
+(N) 2026-01-22T12:55:33 - Torrent download finished. Torrent: "High.Rollers.2025.1080p.WEBRip.x264.AAC5.1"
+(N) 2026-01-22T12:59:33 - Torrent download finished. Torrent: "Trap House 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T13:03:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:09:12 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:09:12 - Added new torrent. Torrent: "89599bf4dc369a3a8eca26411c5ccf922d78b486"
+(N) 2026-01-22T13:09:14 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:09:19 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:10:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:10:34 - Torrent removed. Torrent: "www.UIndex.org    -    The Great Flood (2025) 720p WEBRip-WORLD"
+(N) 2026-01-22T13:11:01 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:16:39 - Torrent download finished. Torrent: "Interstellar (2014) (2014) [1080p]"
+(N) 2026-01-22T13:26:47 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:33:57 - WebAPI login success. IP: ::1
+(N) 2026-01-22T13:49:50 - Torrent download finished. Torrent: "Avatar Fire and Ash [2025] HDTS V2 Dual YG"
+(N) 2026-01-22T14:15:11 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:41:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:41:52 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:41:52 - Torrent removed. Torrent: "Avatar Fire and Ash [2025] HDTS V2 Dual YG"
+(N) 2026-01-22T14:42:06 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:42:35 - qBittorrent termination initiated
+(N) 2026-01-22T14:42:35 - Saving resume data completed.
+(N) 2026-01-22T14:42:36 - BitTorrent session successfully finished.
+(N) 2026-01-22T14:42:36 - qBittorrent is now ready to exit
+(N) 2026-01-22T14:43:45 - qBittorrent v5.1.4 started. Process ID: 34572
+(N) 2026-01-22T14:43:45 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T14:43:58 - qBittorrent termination initiated
+(N) 2026-01-22T14:43:58 - qBittorrent is now ready to exit
+(N) 2026-01-22T14:44:54 - qBittorrent v5.1.4 started. Process ID: 31192
+(N) 2026-01-22T14:44:54 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T14:45:57 - qBittorrent termination initiated
+(N) 2026-01-22T14:45:57 - qBittorrent is now ready to exit
+: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T14:45:59 - qBittorrent termination initiated
+(N) 2026-01-22T14:45:59 - qBittorrent is now ready to exit
+(N) 2026-01-22T14:48:48 - qBittorrent v5.1.4 started. Process ID: 9228
+(N) 2026-01-22T14:48:48 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T14:48:56 - qBittorrent termination initiated
+(N) 2026-01-22T14:48:56 - qBittorrent is now ready to exit
+(N) 2026-01-22T14:49:04 - qBittorrent v5.1.4 started. Process ID: 500
+(N) 2026-01-22T14:49:04 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T14:49:04 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T14:49:04 - Peer ID: "-qB5140-"
+(I) 2026-01-22T14:49:04 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T14:49:04 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T14:49:04 - Local Peer Discovery support: ON
+(I) 2026-01-22T14:49:04 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T14:49:04 - Anonymous mode: OFF
+(I) 2026-01-22T14:49:04 - Encryption support: ON
+(I) 2026-01-22T14:49:04 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "10.8.0.38". Port: "TCP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "10.8.0.38". Port: "UTP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "TCP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "UTP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T14:49:04 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(N) 2026-01-22T14:49:04 - Restored torrent. Torrent: "Interstellar (2014) (2014) [1080p]"
+(N) 2026-01-22T14:49:04 - Restored torrent. Torrent: "High.Rollers.2025.1080p.WEBRip.x264.AAC5.1"
+(N) 2026-01-22T14:49:04 - Restored torrent. Torrent: "Trap House 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T14:49:04 - Restored torrent. Torrent: "Tron Ares (2025) [1080p] [WEBRip] [5.1] [YTS.LT]"
+(N) 2026-01-22T14:49:04 - Restored torrent. Torrent: "www.UIndex.org    -    War of the Worlds 2025 1080p AMZN WEB-DL DDP5 1 H 264-FLUX"
+(I) 2026-01-22T14:49:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(N) 2026-01-22T14:49:04 - Using built-in WebUI.
+(N) 2026-01-22T14:49:04 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-01-22T14:49:04 - WebUI: Now listening on IP: *, port: 5001
+(I) 2026-01-22T14:49:04 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T14:49:04 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T14:49:04 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T14:49:04 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T14:49:04 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T14:49:04 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:49:05 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:49:13 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:49:23 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:49:23 - Added new torrent. Torrent: "1d3952c187cde2c0e2e7237157c2f9fb33a3cefa"
+(N) 2026-01-22T14:49:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:49:30 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:49:30 - Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:1D3952C187CDE2C0E2E7237157C2F9FB33A3CEFA. Existing torrent: Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv. Result: Merging of trackers is disabled
+(N) 2026-01-22T14:49:33 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:49:34 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:50:31 - qBittorrent termination initiated
+(N) 2026-01-22T14:50:31 - Saving resume data completed.
+(N) 2026-01-22T14:50:33 - BitTorrent session successfully finished.
+(N) 2026-01-22T14:50:33 - qBittorrent is now ready to exit
+(N) 2026-01-22T14:53:13 - qBittorrent v5.1.4 started. Process ID: 24592
+(N) 2026-01-22T14:53:13 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T14:53:22 - qBittorrent termination initiated
+(N) 2026-01-22T14:53:22 - qBittorrent is now ready to exit
+(N) 2026-01-22T14:56:38 - qBittorrent v5.1.4 started. Process ID: 29684
+(N) 2026-01-22T14:56:38 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T14:56:38 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T14:56:38 - Peer ID: "-qB5140-"
+(I) 2026-01-22T14:56:38 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T14:56:38 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T14:56:38 - Local Peer Discovery support: ON
+(I) 2026-01-22T14:56:38 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T14:56:38 - Anonymous mode: OFF
+(I) 2026-01-22T14:56:38 - Encryption support: ON
+(I) 2026-01-22T14:56:38 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "10.8.0.38". Port: "TCP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "10.8.0.38". Port: "UTP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "TCP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "UTP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T14:56:38 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"
+(N) 2026-01-22T14:56:38 - Restored torrent. Torrent: "Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T14:56:38 - Restored torrent. Torrent: "Trap House 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T14:56:38 - Restored torrent. Torrent: "High.Rollers.2025.1080p.WEBRip.x264.AAC5.1"
+(N) 2026-01-22T14:56:38 - Restored torrent. Torrent: "Interstellar (2014) (2014) [1080p]"
+(N) 2026-01-22T14:56:38 - Restored torrent. Torrent: "Tron Ares (2025) [1080p] [WEBRip] [5.1] [YTS.LT]"
+(N) 2026-01-22T14:56:38 - Restored torrent. Torrent: "www.UIndex.org    -    War of the Worlds 2025 1080p AMZN WEB-DL DDP5 1 H 264-FLUX"
+(I) 2026-01-22T14:56:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jan 1 04:26:44 2026.
+(N) 2026-01-22T14:56:38 - Using built-in WebUI.
+(N) 2026-01-22T14:56:38 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-01-22T14:56:38 - WebUI: Now listening on IP: *, port: 5001
+(I) 2026-01-22T14:56:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T14:56:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: TCP/11151"
+(I) 2026-01-22T14:56:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T14:56:38 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.13 external port: UDP/11151"
+(I) 2026-01-22T14:56:38 - Detected external IP. IP: "196.216.135.79"
+(N) 2026-01-22T14:56:38 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:56:38 - Options saved.
+(N) 2026-01-22T14:56:38 - Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:1D3952C187CDE2C0E2E7237157C2F9FB33A3CEFA. Existing torrent: Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv. Result: Merging of trackers is disabled
+(N) 2026-01-22T14:56:47 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:58:58 - Options saved.
+(N) 2026-01-22T14:59:13 - WebAPI login success. IP: ::1
+(W) 2026-01-22T14:59:14 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[10.8.0.38]: no router found"
+(W) 2026-01-22T14:59:14 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[10.8.0.38]: no router found"
+(N) 2026-01-22T14:59:24 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:59:24 - Torrent removed. Torrent: "Icefall 2025 1080p WEB-DL HEVC x265 5.1 BONE.mkv"
+(N) 2026-01-22T14:59:29 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:59:31 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:59:44 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:59:44 - Added new torrent. Torrent: "79d7715159d71b9d26a88560f716f78d6d6e5910"
+(N) 2026-01-22T14:59:47 - WebAPI login success. IP: ::1
+(N) 2026-01-22T14:59:50 - WebAPI login success. IP: ::1
+(N) 2026-01-22T15:00:01 - WebAPI login success. IP: ::1
+(N) 2026-01-22T15:00:01 - Torrent removed. Torrent: "www.UIndex.org    -    The Housemaid 2025 1080p TS EN-RGB"
+(N) 2026-01-22T15:00:07 - WebAPI login success. IP: ::1
+(N) 2026-01-22T15:00:08 - WebAPI login success. IP: ::1
+(N) 2026-01-22T15:00:12 - qBittorrent termination initiated
+(N) 2026-01-22T15:00:12 - Saving resume data completed.
+(N) 2026-01-22T15:00:12 - BitTorrent session successfully finished.
+(N) 2026-01-22T15:00:12 - qBittorrent is now ready to exit
+(N) 2026-01-22T15:01:10 - qBittorrent v5.1.4 started. Process ID: 34208
+(N) 2026-01-22T15:01:10 - Using config directory: C:\New_Projects\JetFlix\qBittorrentPortable\Data\qBittorrent\config
+(N) 2026-01-22T15:01:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:11151,[::]:11151"
+(I) 2026-01-22T15:01:10 - Peer ID: "-qB5140-"
+(I) 2026-01-22T15:01:10 - HTTP User-Agent: "qBittorrent/5.1.4"
+(I) 2026-01-22T15:01:10 - Distributed Hash Table (DHT) support: ON
+(I) 2026-01-22T15:01:10 - Local Peer Discovery support: ON
+(I) 2026-01-22T15:01:10 - Peer Exchange (PeX) support: ON
+(I) 2026-01-22T15:01:10 - Anonymous mode: OFF
+(I) 2026-01-22T15:01:10 - Encryption support: ON
+(I) 2026-01-22T15:01:10 - UPnP/NAT-PMP support: ON
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "10.8.0.38". Port: "TCP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "10.8.0.38". Port: "UTP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "169.254.136.225". Port: "TCP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "169.254.136.225". Port: "UTP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "192.168.0.13". Port: "TCP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "192.168.0.13". Port: "UTP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "TCP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "fe80::6a1e:152b:2d36:f121%25". Port: "UTP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "TCP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "fe80::93f0:fca2:8fdc:74fc%18". Port: "UTP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "::1". Port: "TCP/11151"
+(I) 2026-01-22T15:01:10 - Successfully listening on IP. IP: "::1". Port: "UTP/11151"

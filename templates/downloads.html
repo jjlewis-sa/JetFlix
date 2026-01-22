@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Downloads - JetFlix</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>JetFlix</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/movies">Movies</a>
+            <a href="/downloads">Downloads</a>
+        </nav>
+    </div>
+    <div class="main">
+        <section class="row">
+            <h2>Active Downloads</h2>
+            <div id="downloads-list">
+                <!-- Downloads will be populated here -->
+            </div>
+        </section>
+        <section class="row">
+            <h2>Downloaded Videos</h2>
+            <div id="videos-list">
+                <!-- Downloaded videos will be populated here -->
+            </div>
+        </section>
+    </div>
+    <div id="video-player-modal" class="modal">
+        <div class="video-player-content">
+            <span class="close-video">&times;</span>
+            <div id="transcoding-loading" style="display: none; text-align: center; padding: 20px;">
+                <p id="transcoding-text">Transcoding video for playback...</p>
+                <div class="progress-bar" id="transcode-progress-bar" style="display: none;">
+                    <div class="progress-fill" id="transcode-progress-fill" style="width: 0%"></div>
+                </div>
+                <button id="play-transcoded" style="display: none;">Play Video</button>
+            </div>
+            <video id="video-player" controls style="display: none;"></video>
+        </div>
+    </div>
+    <script src="static/script.js"></script>
+    <script>
+        function updateDownloads() {
+            fetch('/api/downloads')
+            .then(response => response.json())
+            .then(data => {
+                const downloadsList = document.getElementById('downloads-list');
+                if (data.length === 0) {
+                    downloadsList.innerHTML = '<p>No active downloads</p>';
+                    return;
+                }
+                downloadsList.innerHTML = data.map(download => `
+                    <div class="download-item">
+                        <h3>${download.name}</h3>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: ${download.progress}%"></div>
+                        </div>
+                        <p>${download.progress.toFixed(1)}% complete</p>
+                        <p>Download: ${(download.download_rate / 1000).toFixed(1)} KB/s | Upload: ${(download.upload_rate / 1000).toFixed(1)} KB/s</p>
+                        <p>Peers: ${download.num_peers} | State: ${download.state}</p>
+                        <button onclick="stopDownload('${download.hash}')">Stop</button>
+                    </div>
+                `).join('');
+            });
+        }
+
+        function stopDownload(name) {
+            fetch(`/api/download/${name}`, { method: 'DELETE' })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message || data.error);
+                updateDownloads();
+            });
+        }
+
+        function updateVideos() {
+            fetch('/api/downloaded-files')
+            .then(response => response.json())
+            .then(data => {
+                const videosList = document.getElementById('videos-list');
+                if (data.length === 0) {
+                    videosList.innerHTML = '<p>No downloaded videos yet</p>';
+                    return;
+                }
+                videosList.innerHTML = data.map(video => {
+                    let actionHtml = '';
+                    if (video.transcoding_status === 'ready' || video.transcoding_status === 'done') {
+                        actionHtml = `<button onclick="playVideo('${video.path}')">Play</button>`;
+                    } else if (video.transcoding_status === 'error') {
+                        actionHtml = '<p>Transcoding failed</p>';
+                    } else {
+                        // not_started or in_progress
+                        actionHtml = `
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: ${video.transcoding_progress}%"></div>
+                            </div>
+                            <p>Transcoding: ${video.transcoding_progress.toFixed(1)}%</p>
+                            <button onclick="playVideo('${video.path}')" ${video.transcoding_status === 'in_progress' ? 'disabled' : ''}>Play</button>
+                        `;
+                    }
+                    return `
+                        <div class="video-item">
+                            <h3>${video.name}</h3>
+                            <p>Size: ${(video.size / (1024*1024*1024)).toFixed(2)} GB</p>
+                            ${actionHtml}
+                        </div>
+                    `;
+                }).join('');
+            });
+        }
+
+        function playVideo(path) {
+            const modal = document.getElementById('video-player-modal');
+            const video = document.getElementById('video-player');
+            const loading = document.getElementById('transcoding-loading');
+            const transcodingText = document.getElementById('transcoding-text');
+            const progressBar = document.getElementById('transcode-progress-bar');
+            const progressFill = document.getElementById('transcode-progress-fill');
+            const playButton = document.getElementById('play-transcoded');
+
+            modal.style.display = 'block';
+            loading.style.display = 'block';
+            video.style.display = 'none';
+            transcodingText.style.display = 'block';
+            progressBar.style.display = 'none';
+            playButton.style.display = 'none';
+
+            fetch(`/downloads/${path}`)
+            .then(response => {
+                const contentType = response.headers.get('content-type');
+                if (contentType && contentType.includes('application/json')) {
+                    return response.json().then(data => {
+                        if (data.status === 'transcoding') {
+                            transcodingText.textContent = 'Transcoding video...';
+                            progressBar.style.display = 'block';
+                            checkStatus();
+                        }
+                    });
+                } else {
+                    // It's the video
+                    video.src = `/downloads/${path}`;
+                    video.style.display = 'block';
+                    loading.style.display = 'none';
+                    video.autoplay = true;
+                }
+            })
+            .catch(err => {
+                console.error('Error fetching video:', err);
+            });
+
+            function checkStatus() {
+                fetch(`/api/transcoding-status/${path}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'done') {
+                        transcodingText.style.display = 'none';
+                        progressBar.style.display = 'none';
+                        playButton.style.display = 'block';
+                        playButton.onclick = () => {
+                            loading.style.display = 'none';
+                            video.style.display = 'block';
+                            video.src = `/downloads/${path}`;
+                            video.autoplay = true;
+                        };
+                    } else if (data.status === 'error') {
+                        transcodingText.textContent = 'Transcoding failed. Please try again.';
+                        progressBar.style.display = 'none';
+                        playButton.style.display = 'none';
+                    } else {
+                        progressFill.style.width = data.progress + '%';
+                        setTimeout(checkStatus, 2000);
+                    }
+                })
+                .catch(err => {
+                    console.error('Error checking status:', err);
+                    setTimeout(checkStatus, 2000);
+                });
+            }
+        }
+
+        // Close video modal
+        document.querySelector('.close-video').onclick = function() {
+            document.getElementById('video-player-modal').style.display = 'none';
+            document.getElementById('video-player').pause();
+            document.getElementById('video-player').src = '';
+            document.getElementById('transcoding-loading').style.display = 'none';
+            document.getElementById('video-player').style.display = 'none';
+            document.getElementById('transcoding-text').style.display = 'none';
+            document.getElementById('transcode-progress-bar').style.display = 'none';
+            document.getElementById('play-transcoded').style.display = 'none';
+        }
+
+        // Update downloads and videos every 5 seconds
+        setInterval(() => {
+            updateDownloads();
+            updateVideos();
+        }, 5000);
+        updateDownloads();
+        updateVideos();
+    </script>
+</body>
+</html>

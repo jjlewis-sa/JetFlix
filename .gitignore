@@ -1,0 +1,36 @@
+# Downloads and media files
+downloads/
+transcoded/
+media/
+
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build directories
+build/
+dist/
+
+# Executables
+JetFlix.exe
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

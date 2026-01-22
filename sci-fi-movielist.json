@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Predator: Badlands",
+        "poster_path": "https://image.tmdb.org/t/p/w500//pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "Avatar: Fire and Ash",
+        "poster_path": "https://image.tmdb.org/t/p/w500//bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "Killer Whale",
+        "poster_path": "https://image.tmdb.org/t/p/w500//cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
+        "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "War of the Worlds",
+        "poster_path": "https://image.tmdb.org/t/p/w500//yvirUYrva23IudARHn3mMGVxWqM.jpg",
+        "description": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "28 Years Later: The Bone Temple",
+        "poster_path": "https://image.tmdb.org/t/p/w500//kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "The Great Flood",
+        "poster_path": "https://image.tmdb.org/t/p/w500//1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "The Avengers",
+        "poster_path": "https://image.tmdb.org/t/p/w500//RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "Nazi Supersoldier",
+        "poster_path": "https://image.tmdb.org/t/p/w500//3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
+        "description": "A group of journalism students ventures into a remote forest and awakens a long-frozen World War II experiment a superhuman Nazi soldier. Hunted through cursed woods where trust crumbles and survival is slim, they soon learn that some sins demand blood.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "TRON: Ares",
+        "poster_path": "https://image.tmdb.org/t/p/w500//chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "poster_path": "https://image.tmdb.org/t/p/w500//t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "genre": "Sci-Fi",
+        "type": "movie"
+    }
+]

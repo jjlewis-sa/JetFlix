@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Series - JetFlix</title>
+    <link rel="stylesheet" href="static/style.css">
+    <style>
+        .row-posters {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            overflow-x: visible;
+            padding-bottom: 0;
+        }
+        .row-poster-container {
+            position: relative;
+        }
+        .overlay {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>JetFlix</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/movies">Movies</a>
+            <a href="/series">Series</a>
+            <a href="/downloads">Downloads</a>
+        </nav>
+    </div>
+    <div class="main">
+        <!-- Series genres will be loaded dynamically here -->
+    </div>
+    <div id="movie-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-poster" src="" alt="">
+            <h2 id="modal-title"></h2>
+            <p id="modal-description"></p>
+            <div id="modal-torrents"></div>
+            <button id="play-button">Play</button>
+        </div>
+    </div>
+    <div id="stream-modal" class="modal">
+        <div class="stream-modal-content">
+            <span class="close-stream">&times;</span>
+            <button id="fullscreen-btn">Fullscreen</button>
+            <div id="stream-container"></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/webtorrent@latest/webtorrent.min.js"></script>
+    <script src="static/script.js"></script>
+    <script>
+        // Load series genres for series page
+        document.addEventListener('DOMContentLoaded', function() {
+            const main = document.querySelector('.main');
+
+            // Fetch series genres and create sections
+            fetch('/series-genres.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(seriesGenres => {
+                    seriesGenres.forEach(genre => {
+                        const section = document.createElement('section');
+                        section.className = 'row';
+                        const h2 = document.createElement('h2');
+                        h2.textContent = genre.name;
+                        section.appendChild(h2);
+                        const rowPosters = document.createElement('div');
+                        rowPosters.className = 'row-posters';
+                        section.appendChild(rowPosters);
+                        main.appendChild(section);
+
+                        // Fetch series for this genre
+                        const slug = genre.name.toLowerCase();
+                        const url = `/api/series-genre/${slug}`;
+                        fetch(url)
+                            .then(response => {
+                                if (!response.ok) {
+                                    throw new Error('Network response was not ok');
+                                }
+                                return response.json();
+                            })
+                            .then(data => {
+                                data.forEach(item => {
+                                    const img = document.createElement('img');
+                                    img.src = item.poster_path;
+                                    img.className = 'row-poster';
+                                    img.alt = item.title;
+                                    const overlay = document.createElement('div');
+                                    overlay.className = 'overlay';
+                                    overlay.innerHTML = `<h3>${item.title}</h3><p>${item.description}</p>`;
+                                    overlay.style.display = 'none';
+                                    overlay.style.position = 'absolute';
+                                    overlay.style.backgroundColor = 'rgba(0,0,0,0.8)';
+                                    overlay.style.color = 'white';
+                                    overlay.style.padding = '10px';
+                                    overlay.style.borderRadius = '5px';
+                                    overlay.style.zIndex = '10';
+                                    img.appendChild(overlay);
+                                    img.addEventListener('mouseover', function() {
+                                        overlay.style.display = 'block';
+                                    });
+                                    img.addEventListener('mouseout', function() {
+                                        overlay.style.display = 'none';
+                                    });
+                                    img.addEventListener('click', function() {
+                                        showModal(item);
+                                    });
+                                    rowPosters.appendChild(img);
+                                });
+                                addScrollOverlays(rowPosters);
+                            })
+                            .catch(error => {
+                                console.error('Error fetching data for series genre:', genre.name, error);
+                            });
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching series genres:', error);
+                });
+        });
+    </script>
+</body>
+</html>

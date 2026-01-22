@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JetFlix</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>JetFlix</h1>
+        <nav>
+            <a href="#" onclick="showHome()">Home</a>
+            <a href="/movies">Movies</a>
+            <a href="/series">Series</a>
+            <a href="#" onclick="showDownloads()">Downloads</a>
+        </nav>
+        <div id="scrape-section">
+            <h3>Update Database</h3>
+            <button id="scrape-button">Start Scraping</button>
+            <div id="progress-container" style="display:none">
+                <progress id="progress-bar" value="0" max="100"></progress>
+                <p id="progress-message"></p>
+            </div>
+        </div>
+        <div id="qb-notification" style="display:none; padding: 10px; border-radius: 5px; margin-top: 10px;">
+            <p id="qb-message">Starting qBittorrent...</p>
+        </div>
+    </div>
+    <div class="main">
+        <div id="home-view">
+            <section class="row">
+                <h2>Trending Now</h2>
+                <div class="row-posters" id="trending-posters">
+                    <!-- Posters will be populated here by JavaScript -->
+                </div>
+            </section>
+            <!-- Genre sections will be dynamically created here by JavaScript -->
+        </div>
+        <div id="downloads-view" style="display: none;">
+            <section class="row">
+                <h2>Active Downloads</h2>
+                <div id="downloads-list">
+                    <!-- Downloads will be populated here -->
+                </div>
+            </section>
+            <section class="row">
+                <h2>Downloaded Videos</h2>
+                <div id="videos-list">
+                    <!-- Downloaded videos will be populated here -->
+                </div>
+            </section>
+        </div>
+    </div>
+    <div id="video-player-modal" class="modal">
+        <div class="video-player-content">
+            <span class="close-video">&times;</span>
+            <video id="video-player" controls autoplay></video>
+        </div>
+    </div>
+    <div id="movie-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-poster" src="" alt="">
+            <h2 id="modal-title"></h2>
+            <p id="modal-description"></p>
+            <div id="modal-torrents"></div>
+            <button id="play-button">Play</button>
+        </div>
+    </div>
+    <div id="stream-modal" class="modal">
+        <div class="stream-modal-content">
+            <span class="close-stream">&times;</span>
+            <button id="fullscreen-btn">Fullscreen</button>
+            <div id="stream-container"></div>
+        </div>
+    </div>
+    <script src="static/webtorrent.min.js"></script>
+    <script src="static/script.js"></script>
+</body>
+</html>
